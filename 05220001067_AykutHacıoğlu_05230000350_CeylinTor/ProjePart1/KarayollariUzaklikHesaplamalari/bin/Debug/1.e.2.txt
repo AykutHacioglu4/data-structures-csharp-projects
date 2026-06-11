@@ -1,0 +1,1090 @@
+
+Komşu olmayan ilçeler arasındaki mesafeler:
+Aliağa (0) - Balçova (1): Tanımlı = 91 km, Hesaplanan = 76 km, Fark = 15 km
+Aliağa (0) - Bayındır (2): Tanımlı = 124 km, Hesaplanan = 121 km, Fark = 3 km
+Aliağa (0) - Bayraklı (3): Tanımlı = 55 km, Hesaplanan = 52 km, Fark = 3 km
+Aliağa (0) - Beydağ (5): Tanımlı = 188 km, Hesaplanan = 185 km, Fark = 3 km
+Aliağa (0) - Bornova (6): Tanımlı = 61 km, Hesaplanan = 58 km, Fark = 3 km
+Aliağa (0) - Buca (7): Tanımlı = 76 km, Hesaplanan = 69 km, Fark = 7 km
+Aliağa (0) - Çeşme (8): Tanımlı = 165 km, Hesaplanan = 150 km, Fark = 15 km
+Aliağa (0) - Çiğli (9): Tanımlı = 41 km, Hesaplanan = 41 km, Fark = 0 km
+Aliağa (0) - Dikili (10): Tanımlı = 60 km, Hesaplanan = 60 km, Fark = 0 km
+Aliağa (0) - Gaziemir (12): Tanımlı = 80 km, Hesaplanan = 66 km, Fark = 14 km
+Aliağa (0) - Güzelbahçe (13): Tanımlı = 107 km, Hesaplanan = 93 km, Fark = 14 km
+Aliağa (0) - Karabağlar (14): Tanımlı = 83 km, Hesaplanan = 62 km, Fark = 21 km
+Aliağa (0) - Karaburun (15): Tanımlı = 182 km, Hesaplanan = 167 km, Fark = 15 km
+Aliağa (0) - Karşıyaka (16): Tanımlı = 50 km, Hesaplanan = 47 km, Fark = 3 km
+Aliağa (0) - Kemalpaşa (17): Tanımlı = 79 km, Hesaplanan = 76 km, Fark = 3 km
+Aliağa (0) - Kınık (18): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Aliağa (0) - Kiraz (19): Tanımlı = 189 km, Hesaplanan = 185 km, Fark = 4 km
+Aliağa (0) - Konak (20): Tanımlı = 63 km, Hesaplanan = 60 km, Fark = 3 km
+Aliağa (0) - Menderes (21): Tanımlı = 96 km, Hesaplanan = 92 km, Fark = 4 km
+Aliağa (0) - Narlıdere (23): Tanımlı = 96 km, Hesaplanan = 81 km, Fark = 15 km
+Aliağa (0) - Ödemiş (24): Tanımlı = 160 km, Hesaplanan = 157 km, Fark = 3 km
+Aliağa (0) - Seferihisar (25): Tanımlı = 127 km, Hesaplanan = 112 km, Fark = 15 km
+Aliağa (0) - Selçuk (26): Tanımlı = 129 km, Hesaplanan = 125 km, Fark = 4 km
+Aliağa (0) - Tire (27): Tanımlı = 138 km, Hesaplanan = 134 km, Fark = 4 km
+Aliağa (0) - Torbalı (28): Tanımlı = 100 km, Hesaplanan = 96 km, Fark = 4 km
+Aliağa (0) - Urla (29): Tanımlı = 119 km, Hesaplanan = 104 km, Fark = 15 km
+Balçova (1) - Aliağa (0): Tanımlı = 91 km, Hesaplanan = 76 km, Fark = 15 km
+Balçova (1) - Bayındır (2): Tanımlı = 75 km, Hesaplanan = 74 km, Fark = 1 km
+Balçova (1) - Bayraklı (3): Tanımlı = 37 km, Hesaplanan = 24 km, Fark = 13 km
+Balçova (1) - Bergama (4): Tanımlı = 138 km, Hesaplanan = 123 km, Fark = 15 km
+Balçova (1) - Beydağ (5): Tanımlı = 138 km, Hesaplanan = 138 km, Fark = 0 km
+Balçova (1) - Bornova (6): Tanımlı = 34 km, Hesaplanan = 29 km, Fark = 5 km
+Balçova (1) - Buca (7): Tanımlı = 14 km, Hesaplanan = 14 km, Fark = 0 km
+Balçova (1) - Çeşme (8): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Balçova (1) - Çiğli (9): Tanımlı = 46 km, Hesaplanan = 35 km, Fark = 11 km
+Balçova (1) - Dikili (10): Tanımlı = 150 km, Hesaplanan = 135 km, Fark = 15 km
+Balçova (1) - Foça (11): Tanımlı = 97 km, Hesaplanan = 83 km, Fark = 14 km
+Balçova (1) - Gaziemir (12): Tanımlı = 11 km, Hesaplanan = 11 km, Fark = 0 km
+Balçova (1) - Güzelbahçe (13): Tanımlı = 17 km, Hesaplanan = 17 km, Fark = 0 km
+Balçova (1) - Karaburun (15): Tanımlı = 91 km, Hesaplanan = 91 km, Fark = 0 km
+Balçova (1) - Karşıyaka (16): Tanımlı = 42 km, Hesaplanan = 29 km, Fark = 13 km
+Balçova (1) - Kemalpaşa (17): Tanımlı = 50 km, Hesaplanan = 47 km, Fark = 3 km
+Balçova (1) - Kınık (18): Tanımlı = 154 km, Hesaplanan = 139 km, Fark = 15 km
+Balçova (1) - Kiraz (19): Tanımlı = 139 km, Hesaplanan = 138 km, Fark = 1 km
+Balçova (1) - Menderes (21): Tanımlı = 46 km, Hesaplanan = 46 km, Fark = 0 km
+Balçova (1) - Menemen (22): Tanımlı = 65 km, Hesaplanan = 50 km, Fark = 15 km
+Balçova (1) - Ödemiş (24): Tanımlı = 110 km, Hesaplanan = 110 km, Fark = 0 km
+Balçova (1) - Seferihisar (25): Tanımlı = 36 km, Hesaplanan = 36 km, Fark = 0 km
+Balçova (1) - Selçuk (26): Tanımlı = 79 km, Hesaplanan = 79 km, Fark = 0 km
+Balçova (1) - Tire (27): Tanımlı = 88 km, Hesaplanan = 87 km, Fark = 1 km
+Balçova (1) - Torbalı (28): Tanımlı = 50 km, Hesaplanan = 50 km, Fark = 0 km
+Balçova (1) - Urla (29): Tanımlı = 28 km, Hesaplanan = 28 km, Fark = 0 km
+Bayındır (2) - Aliağa (0): Tanımlı = 124 km, Hesaplanan = 121 km, Fark = 3 km
+Bayındır (2) - Balçova (1): Tanımlı = 75 km, Hesaplanan = 74 km, Fark = 1 km
+Bayındır (2) - Bayraklı (3): Tanımlı = 71 km, Hesaplanan = 71 km, Fark = 0 km
+Bayındır (2) - Bergama (4): Tanımlı = 172 km, Hesaplanan = 168 km, Fark = 4 km
+Bayındır (2) - Beydağ (5): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Bayındır (2) - Bornova (6): Tanımlı = 68 km, Hesaplanan = 68 km, Fark = 0 km
+Bayındır (2) - Buca (7): Tanımlı = 60 km, Hesaplanan = 60 km, Fark = 0 km
+Bayındır (2) - Çeşme (8): Tanımlı = 149 km, Hesaplanan = 148 km, Fark = 1 km
+Bayındır (2) - Çiğli (9): Tanımlı = 80 km, Hesaplanan = 80 km, Fark = 0 km
+Bayındır (2) - Dikili (10): Tanımlı = 184 km, Hesaplanan = 180 km, Fark = 4 km
+Bayındır (2) - Foça (11): Tanımlı = 130 km, Hesaplanan = 128 km, Fark = 2 km
+Bayındır (2) - Gaziemir (12): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Bayındır (2) - Güzelbahçe (13): Tanımlı = 91 km, Hesaplanan = 91 km, Fark = 0 km
+Bayındır (2) - Karabağlar (14): Tanımlı = 67 km, Hesaplanan = 67 km, Fark = 0 km
+Bayındır (2) - Karaburun (15): Tanımlı = 166 km, Hesaplanan = 165 km, Fark = 1 km
+Bayındır (2) - Karşıyaka (16): Tanımlı = 75 km, Hesaplanan = 75 km, Fark = 0 km
+Bayındır (2) - Kınık (18): Tanımlı = 188 km, Hesaplanan = 184 km, Fark = 4 km
+Bayındır (2) - Kiraz (19): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Bayındır (2) - Konak (20): Tanımlı = 69 km, Hesaplanan = 69 km, Fark = 0 km
+Bayındır (2) - Menderes (21): Tanımlı = 58 km, Hesaplanan = 58 km, Fark = 0 km
+Bayındır (2) - Menemen (22): Tanımlı = 99 km, Hesaplanan = 95 km, Fark = 4 km
+Bayındır (2) - Narlıdere (23): Tanımlı = 80 km, Hesaplanan = 79 km, Fark = 1 km
+Bayındır (2) - Seferihisar (25): Tanımlı = 111 km, Hesaplanan = 110 km, Fark = 1 km
+Bayındır (2) - Selçuk (26): Tanımlı = 58 km, Hesaplanan = 58 km, Fark = 0 km
+Bayındır (2) - Urla (29): Tanımlı = 103 km, Hesaplanan = 102 km, Fark = 1 km
+Bayraklı (3) - Aliağa (0): Tanımlı = 55 km, Hesaplanan = 52 km, Fark = 3 km
+Bayraklı (3) - Balçova (1): Tanımlı = 37 km, Hesaplanan = 24 km, Fark = 13 km
+Bayraklı (3) - Bayındır (2): Tanımlı = 71 km, Hesaplanan = 71 km, Fark = 0 km
+Bayraklı (3) - Bergama (4): Tanımlı = 102 km, Hesaplanan = 99 km, Fark = 3 km
+Bayraklı (3) - Beydağ (5): Tanımlı = 134 km, Hesaplanan = 134 km, Fark = 0 km
+Bayraklı (3) - Buca (7): Tanımlı = 23 km, Hesaplanan = 17 km, Fark = 6 km
+Bayraklı (3) - Çeşme (8): Tanımlı = 111 km, Hesaplanan = 98 km, Fark = 13 km
+Bayraklı (3) - Çiğli (9): Tanımlı = 11 km, Hesaplanan = 11 km, Fark = 0 km
+Bayraklı (3) - Dikili (10): Tanımlı = 115 km, Hesaplanan = 111 km, Fark = 4 km
+Bayraklı (3) - Foça (11): Tanımlı = 61 km, Hesaplanan = 59 km, Fark = 2 km
+Bayraklı (3) - Gaziemir (12): Tanımlı = 26 km, Hesaplanan = 14 km, Fark = 12 km
+Bayraklı (3) - Güzelbahçe (13): Tanımlı = 53 km, Hesaplanan = 41 km, Fark = 12 km
+Bayraklı (3) - Karabağlar (14): Tanımlı = 11 km, Hesaplanan = 10 km, Fark = 1 km
+Bayraklı (3) - Karaburun (15): Tanımlı = 128 km, Hesaplanan = 115 km, Fark = 13 km
+Bayraklı (3) - Kemalpaşa (17): Tanımlı = 25 km, Hesaplanan = 25 km, Fark = 0 km
+Bayraklı (3) - Kınık (18): Tanımlı = 119 km, Hesaplanan = 115 km, Fark = 4 km
+Bayraklı (3) - Kiraz (19): Tanımlı = 135 km, Hesaplanan = 134 km, Fark = 1 km
+Bayraklı (3) - Menderes (21): Tanımlı = 42 km, Hesaplanan = 42 km, Fark = 0 km
+Bayraklı (3) - Menemen (22): Tanımlı = 29 km, Hesaplanan = 26 km, Fark = 3 km
+Bayraklı (3) - Narlıdere (23): Tanımlı = 42 km, Hesaplanan = 29 km, Fark = 13 km
+Bayraklı (3) - Ödemiş (24): Tanımlı = 106 km, Hesaplanan = 106 km, Fark = 0 km
+Bayraklı (3) - Seferihisar (25): Tanımlı = 73 km, Hesaplanan = 60 km, Fark = 13 km
+Bayraklı (3) - Selçuk (26): Tanımlı = 75 km, Hesaplanan = 75 km, Fark = 0 km
+Bayraklı (3) - Tire (27): Tanımlı = 84 km, Hesaplanan = 84 km, Fark = 0 km
+Bayraklı (3) - Torbalı (28): Tanımlı = 46 km, Hesaplanan = 46 km, Fark = 0 km
+Bayraklı (3) - Urla (29): Tanımlı = 65 km, Hesaplanan = 52 km, Fark = 13 km
+Bergama (4) - Balçova (1): Tanımlı = 138 km, Hesaplanan = 123 km, Fark = 15 km
+Bergama (4) - Bayındır (2): Tanımlı = 172 km, Hesaplanan = 168 km, Fark = 4 km
+Bergama (4) - Bayraklı (3): Tanımlı = 102 km, Hesaplanan = 99 km, Fark = 3 km
+Bergama (4) - Beydağ (5): Tanımlı = 235 km, Hesaplanan = 229 km, Fark = 6 km
+Bergama (4) - Bornova (6): Tanımlı = 108 km, Hesaplanan = 105 km, Fark = 3 km
+Bergama (4) - Buca (7): Tanımlı = 124 km, Hesaplanan = 116 km, Fark = 8 km
+Bergama (4) - Çeşme (8): Tanımlı = 212 km, Hesaplanan = 197 km, Fark = 15 km
+Bergama (4) - Çiğli (9): Tanımlı = 88 km, Hesaplanan = 88 km, Fark = 0 km
+Bergama (4) - Foça (11): Tanımlı = 88 km, Hesaplanan = 88 km, Fark = 0 km
+Bergama (4) - Gaziemir (12): Tanımlı = 127 km, Hesaplanan = 113 km, Fark = 14 km
+Bergama (4) - Güzelbahçe (13): Tanımlı = 154 km, Hesaplanan = 140 km, Fark = 14 km
+Bergama (4) - Karabağlar (14): Tanımlı = 131 km, Hesaplanan = 109 km, Fark = 22 km
+Bergama (4) - Karaburun (15): Tanımlı = 229 km, Hesaplanan = 214 km, Fark = 15 km
+Bergama (4) - Karşıyaka (16): Tanımlı = 98 km, Hesaplanan = 94 km, Fark = 4 km
+Bergama (4) - Kemalpaşa (17): Tanımlı = 127 km, Hesaplanan = 123 km, Fark = 4 km
+Bergama (4) - Kiraz (19): Tanımlı = 236 km, Hesaplanan = 230 km, Fark = 6 km
+Bergama (4) - Konak (20): Tanımlı = 111 km, Hesaplanan = 107 km, Fark = 4 km
+Bergama (4) - Menderes (21): Tanımlı = 143 km, Hesaplanan = 139 km, Fark = 4 km
+Bergama (4) - Menemen (22): Tanımlı = 73 km, Hesaplanan = 73 km, Fark = 0 km
+Bergama (4) - Narlıdere (23): Tanımlı = 143 km, Hesaplanan = 128 km, Fark = 15 km
+Bergama (4) - Ödemiş (24): Tanımlı = 208 km, Hesaplanan = 204 km, Fark = 4 km
+Bergama (4) - Seferihisar (25): Tanımlı = 174 km, Hesaplanan = 159 km, Fark = 15 km
+Bergama (4) - Selçuk (26): Tanımlı = 176 km, Hesaplanan = 172 km, Fark = 4 km
+Bergama (4) - Tire (27): Tanımlı = 185 km, Hesaplanan = 181 km, Fark = 4 km
+Bergama (4) - Torbalı (28): Tanımlı = 147 km, Hesaplanan = 143 km, Fark = 4 km
+Bergama (4) - Urla (29): Tanımlı = 166 km, Hesaplanan = 151 km, Fark = 15 km
+Beydağ (5) - Aliağa (0): Tanımlı = 188 km, Hesaplanan = 185 km, Fark = 3 km
+Beydağ (5) - Balçova (1): Tanımlı = 138 km, Hesaplanan = 138 km, Fark = 0 km
+Beydağ (5) - Bayındır (2): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Beydağ (5) - Bayraklı (3): Tanımlı = 134 km, Hesaplanan = 134 km, Fark = 0 km
+Beydağ (5) - Bergama (4): Tanımlı = 235 km, Hesaplanan = 229 km, Fark = 6 km
+Beydağ (5) - Bornova (6): Tanımlı = 132 km, Hesaplanan = 132 km, Fark = 0 km
+Beydağ (5) - Buca (7): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Beydağ (5) - Çeşme (8): Tanımlı = 212 km, Hesaplanan = 212 km, Fark = 0 km
+Beydağ (5) - Çiğli (9): Tanımlı = 144 km, Hesaplanan = 144 km, Fark = 0 km
+Beydağ (5) - Dikili (10): Tanımlı = 248 km, Hesaplanan = 244 km, Fark = 4 km
+Beydağ (5) - Foça (11): Tanımlı = 194 km, Hesaplanan = 192 km, Fark = 2 km
+Beydağ (5) - Gaziemir (12): Tanımlı = 127 km, Hesaplanan = 127 km, Fark = 0 km
+Beydağ (5) - Güzelbahçe (13): Tanımlı = 155 km, Hesaplanan = 154 km, Fark = 1 km
+Beydağ (5) - Karabağlar (14): Tanımlı = 131 km, Hesaplanan = 131 km, Fark = 0 km
+Beydağ (5) - Karaburun (15): Tanımlı = 229 km, Hesaplanan = 229 km, Fark = 0 km
+Beydağ (5) - Karşıyaka (16): Tanımlı = 139 km, Hesaplanan = 139 km, Fark = 0 km
+Beydağ (5) - Kemalpaşa (17): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Beydağ (5) - Kınık (18): Tanımlı = 210 km, Hesaplanan = 210 km, Fark = 0 km
+Beydağ (5) - Konak (20): Tanımlı = 133 km, Hesaplanan = 133 km, Fark = 0 km
+Beydağ (5) - Menderes (21): Tanımlı = 122 km, Hesaplanan = 122 km, Fark = 0 km
+Beydağ (5) - Menemen (22): Tanımlı = 162 km, Hesaplanan = 159 km, Fark = 3 km
+Beydağ (5) - Narlıdere (23): Tanımlı = 143 km, Hesaplanan = 143 km, Fark = 0 km
+Beydağ (5) - Seferihisar (25): Tanımlı = 174 km, Hesaplanan = 174 km, Fark = 0 km
+Beydağ (5) - Selçuk (26): Tanımlı = 102 km, Hesaplanan = 102 km, Fark = 0 km
+Beydağ (5) - Tire (27): Tanımlı = 62 km, Hesaplanan = 62 km, Fark = 0 km
+Beydağ (5) - Torbalı (28): Tanımlı = 93 km, Hesaplanan = 93 km, Fark = 0 km
+Beydağ (5) - Urla (29): Tanımlı = 166 km, Hesaplanan = 166 km, Fark = 0 km
+Bornova (6) - Aliağa (0): Tanımlı = 61 km, Hesaplanan = 58 km, Fark = 3 km
+Bornova (6) - Balçova (1): Tanımlı = 34 km, Hesaplanan = 29 km, Fark = 5 km
+Bornova (6) - Bayındır (2): Tanımlı = 68 km, Hesaplanan = 68 km, Fark = 0 km
+Bornova (6) - Bergama (4): Tanımlı = 108 km, Hesaplanan = 105 km, Fark = 3 km
+Bornova (6) - Beydağ (5): Tanımlı = 132 km, Hesaplanan = 132 km, Fark = 0 km
+Bornova (6) - Çeşme (8): Tanımlı = 109 km, Hesaplanan = 103 km, Fark = 6 km
+Bornova (6) - Çiğli (9): Tanımlı = 17 km, Hesaplanan = 17 km, Fark = 0 km
+Bornova (6) - Dikili (10): Tanımlı = 121 km, Hesaplanan = 117 km, Fark = 4 km
+Bornova (6) - Foça (11): Tanımlı = 67 km, Hesaplanan = 65 km, Fark = 2 km
+Bornova (6) - Gaziemir (12): Tanımlı = 24 km, Hesaplanan = 19 km, Fark = 5 km
+Bornova (6) - Güzelbahçe (13): Tanımlı = 51 km, Hesaplanan = 46 km, Fark = 5 km
+Bornova (6) - Karabağlar (14): Tanımlı = 27 km, Hesaplanan = 15 km, Fark = 12 km
+Bornova (6) - Karaburun (15): Tanımlı = 126 km, Hesaplanan = 120 km, Fark = 6 km
+Bornova (6) - Kınık (18): Tanımlı = 125 km, Hesaplanan = 121 km, Fark = 4 km
+Bornova (6) - Kiraz (19): Tanımlı = 132 km, Hesaplanan = 132 km, Fark = 0 km
+Bornova (6) - Menderes (21): Tanımlı = 39 km, Hesaplanan = 39 km, Fark = 0 km
+Bornova (6) - Narlıdere (23): Tanımlı = 39 km, Hesaplanan = 34 km, Fark = 5 km
+Bornova (6) - Ödemiş (24): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Bornova (6) - Seferihisar (25): Tanımlı = 70 km, Hesaplanan = 65 km, Fark = 5 km
+Bornova (6) - Selçuk (26): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Bornova (6) - Tire (27): Tanımlı = 81 km, Hesaplanan = 81 km, Fark = 0 km
+Bornova (6) - Torbalı (28): Tanımlı = 43 km, Hesaplanan = 43 km, Fark = 0 km
+Bornova (6) - Urla (29): Tanımlı = 63 km, Hesaplanan = 57 km, Fark = 6 km
+Buca (7) - Aliağa (0): Tanımlı = 76 km, Hesaplanan = 69 km, Fark = 7 km
+Buca (7) - Balçova (1): Tanımlı = 14 km, Hesaplanan = 14 km, Fark = 0 km
+Buca (7) - Bayındır (2): Tanımlı = 60 km, Hesaplanan = 60 km, Fark = 0 km
+Buca (7) - Bayraklı (3): Tanımlı = 23 km, Hesaplanan = 17 km, Fark = 6 km
+Buca (7) - Bergama (4): Tanımlı = 124 km, Hesaplanan = 116 km, Fark = 8 km
+Buca (7) - Beydağ (5): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Buca (7) - Çeşme (8): Tanımlı = 89 km, Hesaplanan = 88 km, Fark = 1 km
+Buca (7) - Çiğli (9): Tanımlı = 32 km, Hesaplanan = 28 km, Fark = 4 km
+Buca (7) - Dikili (10): Tanımlı = 136 km, Hesaplanan = 128 km, Fark = 8 km
+Buca (7) - Foça (11): Tanımlı = 82 km, Hesaplanan = 76 km, Fark = 6 km
+Buca (7) - Güzelbahçe (13): Tanımlı = 31 km, Hesaplanan = 31 km, Fark = 0 km
+Buca (7) - Karaburun (15): Tanımlı = 106 km, Hesaplanan = 105 km, Fark = 1 km
+Buca (7) - Karşıyaka (16): Tanımlı = 27 km, Hesaplanan = 22 km, Fark = 5 km
+Buca (7) - Kınık (18): Tanımlı = 140 km, Hesaplanan = 132 km, Fark = 8 km
+Buca (7) - Kiraz (19): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Buca (7) - Menderes (21): Tanımlı = 32 km, Hesaplanan = 32 km, Fark = 0 km
+Buca (7) - Menemen (22): Tanımlı = 51 km, Hesaplanan = 43 km, Fark = 8 km
+Buca (7) - Narlıdere (23): Tanımlı = 19 km, Hesaplanan = 19 km, Fark = 0 km
+Buca (7) - Ödemiş (24): Tanımlı = 96 km, Hesaplanan = 96 km, Fark = 0 km
+Buca (7) - Seferihisar (25): Tanımlı = 50 km, Hesaplanan = 50 km, Fark = 0 km
+Buca (7) - Selçuk (26): Tanımlı = 65 km, Hesaplanan = 65 km, Fark = 0 km
+Buca (7) - Tire (27): Tanımlı = 73 km, Hesaplanan = 73 km, Fark = 0 km
+Buca (7) - Urla (29): Tanımlı = 43 km, Hesaplanan = 42 km, Fark = 1 km
+Çeşme (8) - Aliağa (0): Tanımlı = 165 km, Hesaplanan = 150 km, Fark = 15 km
+Çeşme (8) - Balçova (1): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Çeşme (8) - Bayındır (2): Tanımlı = 149 km, Hesaplanan = 148 km, Fark = 1 km
+Çeşme (8) - Bayraklı (3): Tanımlı = 111 km, Hesaplanan = 98 km, Fark = 13 km
+Çeşme (8) - Bergama (4): Tanımlı = 212 km, Hesaplanan = 197 km, Fark = 15 km
+Çeşme (8) - Beydağ (5): Tanımlı = 212 km, Hesaplanan = 212 km, Fark = 0 km
+Çeşme (8) - Bornova (6): Tanımlı = 109 km, Hesaplanan = 103 km, Fark = 6 km
+Çeşme (8) - Buca (7): Tanımlı = 89 km, Hesaplanan = 88 km, Fark = 1 km
+Çeşme (8) - Çiğli (9): Tanımlı = 121 km, Hesaplanan = 109 km, Fark = 12 km
+Çeşme (8) - Dikili (10): Tanımlı = 225 km, Hesaplanan = 209 km, Fark = 16 km
+Çeşme (8) - Foça (11): Tanımlı = 171 km, Hesaplanan = 157 km, Fark = 14 km
+Çeşme (8) - Gaziemir (12): Tanımlı = 85 km, Hesaplanan = 85 km, Fark = 0 km
+Çeşme (8) - Güzelbahçe (13): Tanımlı = 59 km, Hesaplanan = 59 km, Fark = 0 km
+Çeşme (8) - Karabağlar (14): Tanımlı = 89 km, Hesaplanan = 88 km, Fark = 1 km
+Çeşme (8) - Karaburun (15): Tanımlı = 87 km, Hesaplanan = 87 km, Fark = 0 km
+Çeşme (8) - Karşıyaka (16): Tanımlı = 116 km, Hesaplanan = 103 km, Fark = 13 km
+Çeşme (8) - Kemalpaşa (17): Tanımlı = 124 km, Hesaplanan = 121 km, Fark = 3 km
+Çeşme (8) - Kınık (18): Tanımlı = 229 km, Hesaplanan = 213 km, Fark = 16 km
+Çeşme (8) - Kiraz (19): Tanımlı = 213 km, Hesaplanan = 212 km, Fark = 1 km
+Çeşme (8) - Konak (20): Tanımlı = 91 km, Hesaplanan = 90 km, Fark = 1 km
+Çeşme (8) - Menderes (21): Tanımlı = 120 km, Hesaplanan = 120 km, Fark = 0 km
+Çeşme (8) - Menemen (22): Tanımlı = 139 km, Hesaplanan = 124 km, Fark = 15 km
+Çeşme (8) - Narlıdere (23): Tanımlı = 71 km, Hesaplanan = 71 km, Fark = 0 km
+Çeşme (8) - Ödemiş (24): Tanımlı = 185 km, Hesaplanan = 184 km, Fark = 1 km
+Çeşme (8) - Seferihisar (25): Tanımlı = 78 km, Hesaplanan = 78 km, Fark = 0 km
+Çeşme (8) - Selçuk (26): Tanımlı = 153 km, Hesaplanan = 150 km, Fark = 3 km
+Çeşme (8) - Tire (27): Tanımlı = 162 km, Hesaplanan = 161 km, Fark = 1 km
+Çeşme (8) - Torbalı (28): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Çiğli (9) - Aliağa (0): Tanımlı = 41 km, Hesaplanan = 41 km, Fark = 0 km
+Çiğli (9) - Balçova (1): Tanımlı = 46 km, Hesaplanan = 35 km, Fark = 11 km
+Çiğli (9) - Bayındır (2): Tanımlı = 80 km, Hesaplanan = 80 km, Fark = 0 km
+Çiğli (9) - Bayraklı (3): Tanımlı = 11 km, Hesaplanan = 11 km, Fark = 0 km
+Çiğli (9) - Bergama (4): Tanımlı = 88 km, Hesaplanan = 88 km, Fark = 0 km
+Çiğli (9) - Beydağ (5): Tanımlı = 144 km, Hesaplanan = 144 km, Fark = 0 km
+Çiğli (9) - Bornova (6): Tanımlı = 17 km, Hesaplanan = 17 km, Fark = 0 km
+Çiğli (9) - Buca (7): Tanımlı = 32 km, Hesaplanan = 28 km, Fark = 4 km
+Çiğli (9) - Çeşme (8): Tanımlı = 121 km, Hesaplanan = 109 km, Fark = 12 km
+Çiğli (9) - Dikili (10): Tanımlı = 100 km, Hesaplanan = 100 km, Fark = 0 km
+Çiğli (9) - Foça (11): Tanımlı = 48 km, Hesaplanan = 48 km, Fark = 0 km
+Çiğli (9) - Gaziemir (12): Tanımlı = 36 km, Hesaplanan = 25 km, Fark = 11 km
+Çiğli (9) - Güzelbahçe (13): Tanımlı = 63 km, Hesaplanan = 52 km, Fark = 11 km
+Çiğli (9) - Karabağlar (14): Tanımlı = 39 km, Hesaplanan = 21 km, Fark = 18 km
+Çiğli (9) - Karaburun (15): Tanımlı = 138 km, Hesaplanan = 126 km, Fark = 12 km
+Çiğli (9) - Kemalpaşa (17): Tanımlı = 35 km, Hesaplanan = 35 km, Fark = 0 km
+Çiğli (9) - Kınık (18): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Çiğli (9) - Kiraz (19): Tanımlı = 144 km, Hesaplanan = 144 km, Fark = 0 km
+Çiğli (9) - Konak (20): Tanımlı = 19 km, Hesaplanan = 19 km, Fark = 0 km
+Çiğli (9) - Menderes (21): Tanımlı = 51 km, Hesaplanan = 51 km, Fark = 0 km
+Çiğli (9) - Narlıdere (23): Tanımlı = 51 km, Hesaplanan = 40 km, Fark = 11 km
+Çiğli (9) - Ödemiş (24): Tanımlı = 116 km, Hesaplanan = 116 km, Fark = 0 km
+Çiğli (9) - Seferihisar (25): Tanımlı = 82 km, Hesaplanan = 71 km, Fark = 11 km
+Çiğli (9) - Selçuk (26): Tanımlı = 84 km, Hesaplanan = 84 km, Fark = 0 km
+Çiğli (9) - Tire (27): Tanımlı = 93 km, Hesaplanan = 93 km, Fark = 0 km
+Çiğli (9) - Torbalı (28): Tanımlı = 55 km, Hesaplanan = 55 km, Fark = 0 km
+Çiğli (9) - Urla (29): Tanımlı = 75 km, Hesaplanan = 63 km, Fark = 12 km
+Dikili (10) - Aliağa (0): Tanımlı = 60 km, Hesaplanan = 60 km, Fark = 0 km
+Dikili (10) - Balçova (1): Tanımlı = 150 km, Hesaplanan = 135 km, Fark = 15 km
+Dikili (10) - Bayındır (2): Tanımlı = 184 km, Hesaplanan = 180 km, Fark = 4 km
+Dikili (10) - Bayraklı (3): Tanımlı = 115 km, Hesaplanan = 111 km, Fark = 4 km
+Dikili (10) - Beydağ (5): Tanımlı = 248 km, Hesaplanan = 244 km, Fark = 4 km
+Dikili (10) - Bornova (6): Tanımlı = 121 km, Hesaplanan = 117 km, Fark = 4 km
+Dikili (10) - Buca (7): Tanımlı = 136 km, Hesaplanan = 128 km, Fark = 8 km
+Dikili (10) - Çeşme (8): Tanımlı = 225 km, Hesaplanan = 209 km, Fark = 16 km
+Dikili (10) - Çiğli (9): Tanımlı = 100 km, Hesaplanan = 100 km, Fark = 0 km
+Dikili (10) - Foça (11): Tanımlı = 100 km, Hesaplanan = 100 km, Fark = 0 km
+Dikili (10) - Gaziemir (12): Tanımlı = 140 km, Hesaplanan = 125 km, Fark = 15 km
+Dikili (10) - Güzelbahçe (13): Tanımlı = 167 km, Hesaplanan = 152 km, Fark = 15 km
+Dikili (10) - Karabağlar (14): Tanımlı = 143 km, Hesaplanan = 121 km, Fark = 22 km
+Dikili (10) - Karaburun (15): Tanımlı = 242 km, Hesaplanan = 226 km, Fark = 16 km
+Dikili (10) - Karşıyaka (16): Tanımlı = 110 km, Hesaplanan = 106 km, Fark = 4 km
+Dikili (10) - Kemalpaşa (17): Tanımlı = 139 km, Hesaplanan = 135 km, Fark = 4 km
+Dikili (10) - Kınık (18): Tanımlı = 46 km, Hesaplanan = 46 km, Fark = 0 km
+Dikili (10) - Kiraz (19): Tanımlı = 248 km, Hesaplanan = 244 km, Fark = 4 km
+Dikili (10) - Konak (20): Tanımlı = 123 km, Hesaplanan = 119 km, Fark = 4 km
+Dikili (10) - Menderes (21): Tanımlı = 155 km, Hesaplanan = 151 km, Fark = 4 km
+Dikili (10) - Menemen (22): Tanımlı = 85 km, Hesaplanan = 85 km, Fark = 0 km
+Dikili (10) - Narlıdere (23): Tanımlı = 155 km, Hesaplanan = 140 km, Fark = 15 km
+Dikili (10) - Ödemiş (24): Tanımlı = 220 km, Hesaplanan = 216 km, Fark = 4 km
+Dikili (10) - Seferihisar (25): Tanımlı = 186 km, Hesaplanan = 171 km, Fark = 15 km
+Dikili (10) - Selçuk (26): Tanımlı = 188 km, Hesaplanan = 184 km, Fark = 4 km
+Dikili (10) - Tire (27): Tanımlı = 197 km, Hesaplanan = 193 km, Fark = 4 km
+Dikili (10) - Torbalı (28): Tanımlı = 159 km, Hesaplanan = 155 km, Fark = 4 km
+Dikili (10) - Urla (29): Tanımlı = 179 km, Hesaplanan = 163 km, Fark = 16 km
+Foça (11) - Balçova (1): Tanımlı = 97 km, Hesaplanan = 83 km, Fark = 14 km
+Foça (11) - Bayındır (2): Tanımlı = 130 km, Hesaplanan = 128 km, Fark = 2 km
+Foça (11) - Bayraklı (3): Tanımlı = 61 km, Hesaplanan = 59 km, Fark = 2 km
+Foça (11) - Bergama (4): Tanımlı = 88 km, Hesaplanan = 88 km, Fark = 0 km
+Foça (11) - Beydağ (5): Tanımlı = 194 km, Hesaplanan = 192 km, Fark = 2 km
+Foça (11) - Bornova (6): Tanımlı = 67 km, Hesaplanan = 65 km, Fark = 2 km
+Foça (11) - Buca (7): Tanımlı = 82 km, Hesaplanan = 76 km, Fark = 6 km
+Foça (11) - Çeşme (8): Tanımlı = 171 km, Hesaplanan = 157 km, Fark = 14 km
+Foça (11) - Çiğli (9): Tanımlı = 48 km, Hesaplanan = 48 km, Fark = 0 km
+Foça (11) - Dikili (10): Tanımlı = 100 km, Hesaplanan = 100 km, Fark = 0 km
+Foça (11) - Gaziemir (12): Tanımlı = 86 km, Hesaplanan = 73 km, Fark = 13 km
+Foça (11) - Güzelbahçe (13): Tanımlı = 113 km, Hesaplanan = 100 km, Fark = 13 km
+Foça (11) - Karabağlar (14): Tanımlı = 89 km, Hesaplanan = 69 km, Fark = 20 km
+Foça (11) - Karaburun (15): Tanımlı = 188 km, Hesaplanan = 174 km, Fark = 14 km
+Foça (11) - Karşıyaka (16): Tanımlı = 56 km, Hesaplanan = 54 km, Fark = 2 km
+Foça (11) - Kemalpaşa (17): Tanımlı = 85 km, Hesaplanan = 83 km, Fark = 2 km
+Foça (11) - Kınık (18): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Foça (11) - Kiraz (19): Tanımlı = 195 km, Hesaplanan = 192 km, Fark = 3 km
+Foça (11) - Konak (20): Tanımlı = 69 km, Hesaplanan = 67 km, Fark = 2 km
+Foça (11) - Menderes (21): Tanımlı = 102 km, Hesaplanan = 99 km, Fark = 3 km
+Foça (11) - Narlıdere (23): Tanımlı = 102 km, Hesaplanan = 88 km, Fark = 14 km
+Foça (11) - Ödemiş (24): Tanımlı = 166 km, Hesaplanan = 164 km, Fark = 2 km
+Foça (11) - Seferihisar (25): Tanımlı = 133 km, Hesaplanan = 119 km, Fark = 14 km
+Foça (11) - Selçuk (26): Tanımlı = 135 km, Hesaplanan = 132 km, Fark = 3 km
+Foça (11) - Tire (27): Tanımlı = 143 km, Hesaplanan = 141 km, Fark = 2 km
+Foça (11) - Torbalı (28): Tanımlı = 106 km, Hesaplanan = 103 km, Fark = 3 km
+Foça (11) - Urla (29): Tanımlı = 125 km, Hesaplanan = 111 km, Fark = 14 km
+Gaziemir (12) - Aliağa (0): Tanımlı = 80 km, Hesaplanan = 66 km, Fark = 14 km
+Gaziemir (12) - Balçova (1): Tanımlı = 11 km, Hesaplanan = 11 km, Fark = 0 km
+Gaziemir (12) - Bayındır (2): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Gaziemir (12) - Bayraklı (3): Tanımlı = 26 km, Hesaplanan = 14 km, Fark = 12 km
+Gaziemir (12) - Bergama (4): Tanımlı = 127 km, Hesaplanan = 113 km, Fark = 14 km
+Gaziemir (12) - Beydağ (5): Tanımlı = 127 km, Hesaplanan = 127 km, Fark = 0 km
+Gaziemir (12) - Bornova (6): Tanımlı = 24 km, Hesaplanan = 19 km, Fark = 5 km
+Gaziemir (12) - Çeşme (8): Tanımlı = 85 km, Hesaplanan = 85 km, Fark = 0 km
+Gaziemir (12) - Çiğli (9): Tanımlı = 36 km, Hesaplanan = 25 km, Fark = 11 km
+Gaziemir (12) - Dikili (10): Tanımlı = 140 km, Hesaplanan = 125 km, Fark = 15 km
+Gaziemir (12) - Foça (11): Tanımlı = 86 km, Hesaplanan = 73 km, Fark = 13 km
+Gaziemir (12) - Güzelbahçe (13): Tanımlı = 27 km, Hesaplanan = 27 km, Fark = 0 km
+Gaziemir (12) - Karaburun (15): Tanımlı = 102 km, Hesaplanan = 102 km, Fark = 0 km
+Gaziemir (12) - Karşıyaka (16): Tanımlı = 31 km, Hesaplanan = 19 km, Fark = 12 km
+Gaziemir (12) - Kemalpaşa (17): Tanımlı = 39 km, Hesaplanan = 37 km, Fark = 2 km
+Gaziemir (12) - Kınık (18): Tanımlı = 144 km, Hesaplanan = 129 km, Fark = 15 km
+Gaziemir (12) - Kiraz (19): Tanımlı = 128 km, Hesaplanan = 128 km, Fark = 0 km
+Gaziemir (12) - Konak (20): Tanımlı = 6 km, Hesaplanan = 6 km, Fark = 0 km
+Gaziemir (12) - Menemen (22): Tanımlı = 54 km, Hesaplanan = 40 km, Fark = 14 km
+Gaziemir (12) - Narlıdere (23): Tanımlı = 16 km, Hesaplanan = 16 km, Fark = 0 km
+Gaziemir (12) - Ödemiş (24): Tanımlı = 100 km, Hesaplanan = 100 km, Fark = 0 km
+Gaziemir (12) - Seferihisar (25): Tanımlı = 47 km, Hesaplanan = 47 km, Fark = 0 km
+Gaziemir (12) - Selçuk (26): Tanımlı = 68 km, Hesaplanan = 68 km, Fark = 0 km
+Gaziemir (12) - Tire (27): Tanımlı = 77 km, Hesaplanan = 77 km, Fark = 0 km
+Gaziemir (12) - Torbalı (28): Tanımlı = 39 km, Hesaplanan = 39 km, Fark = 0 km
+Gaziemir (12) - Urla (29): Tanımlı = 39 km, Hesaplanan = 39 km, Fark = 0 km
+Güzelbahçe (13) - Aliağa (0): Tanımlı = 107 km, Hesaplanan = 93 km, Fark = 14 km
+Güzelbahçe (13) - Balçova (1): Tanımlı = 17 km, Hesaplanan = 17 km, Fark = 0 km
+Güzelbahçe (13) - Bayındır (2): Tanımlı = 91 km, Hesaplanan = 91 km, Fark = 0 km
+Güzelbahçe (13) - Bayraklı (3): Tanımlı = 53 km, Hesaplanan = 41 km, Fark = 12 km
+Güzelbahçe (13) - Bergama (4): Tanımlı = 154 km, Hesaplanan = 140 km, Fark = 14 km
+Güzelbahçe (13) - Beydağ (5): Tanımlı = 155 km, Hesaplanan = 154 km, Fark = 1 km
+Güzelbahçe (13) - Bornova (6): Tanımlı = 51 km, Hesaplanan = 46 km, Fark = 5 km
+Güzelbahçe (13) - Buca (7): Tanımlı = 31 km, Hesaplanan = 31 km, Fark = 0 km
+Güzelbahçe (13) - Çeşme (8): Tanımlı = 59 km, Hesaplanan = 59 km, Fark = 0 km
+Güzelbahçe (13) - Çiğli (9): Tanımlı = 63 km, Hesaplanan = 52 km, Fark = 11 km
+Güzelbahçe (13) - Dikili (10): Tanımlı = 167 km, Hesaplanan = 152 km, Fark = 15 km
+Güzelbahçe (13) - Foça (11): Tanımlı = 113 km, Hesaplanan = 100 km, Fark = 13 km
+Güzelbahçe (13) - Gaziemir (12): Tanımlı = 27 km, Hesaplanan = 27 km, Fark = 0 km
+Güzelbahçe (13) - Karaburun (15): Tanımlı = 76 km, Hesaplanan = 76 km, Fark = 0 km
+Güzelbahçe (13) - Karşıyaka (16): Tanımlı = 58 km, Hesaplanan = 46 km, Fark = 12 km
+Güzelbahçe (13) - Kemalpaşa (17): Tanımlı = 66 km, Hesaplanan = 64 km, Fark = 2 km
+Güzelbahçe (13) - Kınık (18): Tanımlı = 171 km, Hesaplanan = 156 km, Fark = 15 km
+Güzelbahçe (13) - Kiraz (19): Tanımlı = 155 km, Hesaplanan = 155 km, Fark = 0 km
+Güzelbahçe (13) - Konak (20): Tanımlı = 33 km, Hesaplanan = 33 km, Fark = 0 km
+Güzelbahçe (13) - Menderes (21): Tanımlı = 62 km, Hesaplanan = 62 km, Fark = 0 km
+Güzelbahçe (13) - Menemen (22): Tanımlı = 81 km, Hesaplanan = 67 km, Fark = 14 km
+Güzelbahçe (13) - Ödemiş (24): Tanımlı = 127 km, Hesaplanan = 127 km, Fark = 0 km
+Güzelbahçe (13) - Selçuk (26): Tanımlı = 96 km, Hesaplanan = 92 km, Fark = 4 km
+Güzelbahçe (13) - Tire (27): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Güzelbahçe (13) - Torbalı (28): Tanımlı = 66 km, Hesaplanan = 66 km, Fark = 0 km
+Karabağlar (14) - Aliağa (0): Tanımlı = 83 km, Hesaplanan = 62 km, Fark = 21 km
+Karabağlar (14) - Bayındır (2): Tanımlı = 67 km, Hesaplanan = 67 km, Fark = 0 km
+Karabağlar (14) - Bayraklı (3): Tanımlı = 11 km, Hesaplanan = 10 km, Fark = 1 km
+Karabağlar (14) - Bergama (4): Tanımlı = 131 km, Hesaplanan = 109 km, Fark = 22 km
+Karabağlar (14) - Beydağ (5): Tanımlı = 131 km, Hesaplanan = 131 km, Fark = 0 km
+Karabağlar (14) - Bornova (6): Tanımlı = 27 km, Hesaplanan = 15 km, Fark = 12 km
+Karabağlar (14) - Çeşme (8): Tanımlı = 89 km, Hesaplanan = 88 km, Fark = 1 km
+Karabağlar (14) - Çiğli (9): Tanımlı = 39 km, Hesaplanan = 21 km, Fark = 18 km
+Karabağlar (14) - Dikili (10): Tanımlı = 143 km, Hesaplanan = 121 km, Fark = 22 km
+Karabağlar (14) - Foça (11): Tanımlı = 89 km, Hesaplanan = 69 km, Fark = 20 km
+Karabağlar (14) - Karaburun (15): Tanımlı = 106 km, Hesaplanan = 105 km, Fark = 1 km
+Karabağlar (14) - Karşıyaka (16): Tanımlı = 15 km, Hesaplanan = 15 km, Fark = 0 km
+Karabağlar (14) - Kemalpaşa (17): Tanımlı = 43 km, Hesaplanan = 33 km, Fark = 10 km
+Karabağlar (14) - Kınık (18): Tanımlı = 147 km, Hesaplanan = 125 km, Fark = 22 km
+Karabağlar (14) - Kiraz (19): Tanımlı = 131 km, Hesaplanan = 131 km, Fark = 0 km
+Karabağlar (14) - Menemen (22): Tanımlı = 57 km, Hesaplanan = 36 km, Fark = 21 km
+Karabağlar (14) - Ödemiş (24): Tanımlı = 103 km, Hesaplanan = 103 km, Fark = 0 km
+Karabağlar (14) - Selçuk (26): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Karabağlar (14) - Tire (27): Tanımlı = 80 km, Hesaplanan = 80 km, Fark = 0 km
+Karabağlar (14) - Torbalı (28): Tanımlı = 43 km, Hesaplanan = 43 km, Fark = 0 km
+Karabağlar (14) - Urla (29): Tanımlı = 43 km, Hesaplanan = 42 km, Fark = 1 km
+Karaburun (15) - Aliağa (0): Tanımlı = 182 km, Hesaplanan = 167 km, Fark = 15 km
+Karaburun (15) - Balçova (1): Tanımlı = 91 km, Hesaplanan = 91 km, Fark = 0 km
+Karaburun (15) - Bayındır (2): Tanımlı = 166 km, Hesaplanan = 165 km, Fark = 1 km
+Karaburun (15) - Bayraklı (3): Tanımlı = 128 km, Hesaplanan = 115 km, Fark = 13 km
+Karaburun (15) - Bergama (4): Tanımlı = 229 km, Hesaplanan = 214 km, Fark = 15 km
+Karaburun (15) - Beydağ (5): Tanımlı = 229 km, Hesaplanan = 229 km, Fark = 0 km
+Karaburun (15) - Bornova (6): Tanımlı = 126 km, Hesaplanan = 120 km, Fark = 6 km
+Karaburun (15) - Buca (7): Tanımlı = 106 km, Hesaplanan = 105 km, Fark = 1 km
+Karaburun (15) - Çeşme (8): Tanımlı = 87 km, Hesaplanan = 87 km, Fark = 0 km
+Karaburun (15) - Çiğli (9): Tanımlı = 138 km, Hesaplanan = 126 km, Fark = 12 km
+Karaburun (15) - Dikili (10): Tanımlı = 242 km, Hesaplanan = 226 km, Fark = 16 km
+Karaburun (15) - Foça (11): Tanımlı = 188 km, Hesaplanan = 174 km, Fark = 14 km
+Karaburun (15) - Gaziemir (12): Tanımlı = 102 km, Hesaplanan = 102 km, Fark = 0 km
+Karaburun (15) - Güzelbahçe (13): Tanımlı = 76 km, Hesaplanan = 76 km, Fark = 0 km
+Karaburun (15) - Karabağlar (14): Tanımlı = 106 km, Hesaplanan = 105 km, Fark = 1 km
+Karaburun (15) - Karşıyaka (16): Tanımlı = 133 km, Hesaplanan = 120 km, Fark = 13 km
+Karaburun (15) - Kemalpaşa (17): Tanımlı = 141 km, Hesaplanan = 138 km, Fark = 3 km
+Karaburun (15) - Kınık (18): Tanımlı = 246 km, Hesaplanan = 230 km, Fark = 16 km
+Karaburun (15) - Kiraz (19): Tanımlı = 230 km, Hesaplanan = 229 km, Fark = 1 km
+Karaburun (15) - Konak (20): Tanımlı = 108 km, Hesaplanan = 107 km, Fark = 1 km
+Karaburun (15) - Menderes (21): Tanımlı = 137 km, Hesaplanan = 137 km, Fark = 0 km
+Karaburun (15) - Menemen (22): Tanımlı = 156 km, Hesaplanan = 141 km, Fark = 15 km
+Karaburun (15) - Narlıdere (23): Tanımlı = 88 km, Hesaplanan = 88 km, Fark = 0 km
+Karaburun (15) - Ödemiş (24): Tanımlı = 202 km, Hesaplanan = 201 km, Fark = 1 km
+Karaburun (15) - Seferihisar (25): Tanımlı = 95 km, Hesaplanan = 95 km, Fark = 0 km
+Karaburun (15) - Selçuk (26): Tanımlı = 170 km, Hesaplanan = 167 km, Fark = 3 km
+Karaburun (15) - Tire (27): Tanımlı = 179 km, Hesaplanan = 178 km, Fark = 1 km
+Karaburun (15) - Torbalı (28): Tanımlı = 141 km, Hesaplanan = 141 km, Fark = 0 km
+Karşıyaka (16) - Aliağa (0): Tanımlı = 50 km, Hesaplanan = 47 km, Fark = 3 km
+Karşıyaka (16) - Balçova (1): Tanımlı = 42 km, Hesaplanan = 29 km, Fark = 13 km
+Karşıyaka (16) - Bayındır (2): Tanımlı = 75 km, Hesaplanan = 75 km, Fark = 0 km
+Karşıyaka (16) - Bergama (4): Tanımlı = 98 km, Hesaplanan = 94 km, Fark = 4 km
+Karşıyaka (16) - Beydağ (5): Tanımlı = 139 km, Hesaplanan = 139 km, Fark = 0 km
+Karşıyaka (16) - Buca (7): Tanımlı = 27 km, Hesaplanan = 22 km, Fark = 5 km
+Karşıyaka (16) - Çeşme (8): Tanımlı = 116 km, Hesaplanan = 103 km, Fark = 13 km
+Karşıyaka (16) - Dikili (10): Tanımlı = 110 km, Hesaplanan = 106 km, Fark = 4 km
+Karşıyaka (16) - Foça (11): Tanımlı = 56 km, Hesaplanan = 54 km, Fark = 2 km
+Karşıyaka (16) - Gaziemir (12): Tanımlı = 31 km, Hesaplanan = 19 km, Fark = 12 km
+Karşıyaka (16) - Güzelbahçe (13): Tanımlı = 58 km, Hesaplanan = 46 km, Fark = 12 km
+Karşıyaka (16) - Karabağlar (14): Tanımlı = 15 km, Hesaplanan = 15 km, Fark = 0 km
+Karşıyaka (16) - Karaburun (15): Tanımlı = 133 km, Hesaplanan = 120 km, Fark = 13 km
+Karşıyaka (16) - Kemalpaşa (17): Tanımlı = 30 km, Hesaplanan = 30 km, Fark = 0 km
+Karşıyaka (16) - Kınık (18): Tanımlı = 114 km, Hesaplanan = 110 km, Fark = 4 km
+Karşıyaka (16) - Kiraz (19): Tanımlı = 140 km, Hesaplanan = 139 km, Fark = 1 km
+Karşıyaka (16) - Konak (20): Tanımlı = 13 km, Hesaplanan = 13 km, Fark = 0 km
+Karşıyaka (16) - Menderes (21): Tanımlı = 47 km, Hesaplanan = 47 km, Fark = 0 km
+Karşıyaka (16) - Narlıdere (23): Tanımlı = 47 km, Hesaplanan = 34 km, Fark = 13 km
+Karşıyaka (16) - Ödemiş (24): Tanımlı = 111 km, Hesaplanan = 111 km, Fark = 0 km
+Karşıyaka (16) - Seferihisar (25): Tanımlı = 78 km, Hesaplanan = 65 km, Fark = 13 km
+Karşıyaka (16) - Selçuk (26): Tanımlı = 80 km, Hesaplanan = 80 km, Fark = 0 km
+Karşıyaka (16) - Tire (27): Tanımlı = 89 km, Hesaplanan = 89 km, Fark = 0 km
+Karşıyaka (16) - Torbalı (28): Tanımlı = 51 km, Hesaplanan = 51 km, Fark = 0 km
+Karşıyaka (16) - Urla (29): Tanımlı = 70 km, Hesaplanan = 57 km, Fark = 13 km
+Kemalpaşa (17) - Aliağa (0): Tanımlı = 79 km, Hesaplanan = 76 km, Fark = 3 km
+Kemalpaşa (17) - Balçova (1): Tanımlı = 50 km, Hesaplanan = 47 km, Fark = 3 km
+Kemalpaşa (17) - Bayraklı (3): Tanımlı = 25 km, Hesaplanan = 25 km, Fark = 0 km
+Kemalpaşa (17) - Bergama (4): Tanımlı = 127 km, Hesaplanan = 123 km, Fark = 4 km
+Kemalpaşa (17) - Beydağ (5): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Kemalpaşa (17) - Çeşme (8): Tanımlı = 124 km, Hesaplanan = 121 km, Fark = 3 km
+Kemalpaşa (17) - Çiğli (9): Tanımlı = 35 km, Hesaplanan = 35 km, Fark = 0 km
+Kemalpaşa (17) - Dikili (10): Tanımlı = 139 km, Hesaplanan = 135 km, Fark = 4 km
+Kemalpaşa (17) - Foça (11): Tanımlı = 85 km, Hesaplanan = 83 km, Fark = 2 km
+Kemalpaşa (17) - Gaziemir (12): Tanımlı = 39 km, Hesaplanan = 37 km, Fark = 2 km
+Kemalpaşa (17) - Güzelbahçe (13): Tanımlı = 66 km, Hesaplanan = 64 km, Fark = 2 km
+Kemalpaşa (17) - Karabağlar (14): Tanımlı = 43 km, Hesaplanan = 33 km, Fark = 10 km
+Kemalpaşa (17) - Karaburun (15): Tanımlı = 141 km, Hesaplanan = 138 km, Fark = 3 km
+Kemalpaşa (17) - Karşıyaka (16): Tanımlı = 30 km, Hesaplanan = 30 km, Fark = 0 km
+Kemalpaşa (17) - Kınık (18): Tanımlı = 143 km, Hesaplanan = 139 km, Fark = 4 km
+Kemalpaşa (17) - Kiraz (19): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Kemalpaşa (17) - Konak (20): Tanımlı = 31 km, Hesaplanan = 31 km, Fark = 0 km
+Kemalpaşa (17) - Menderes (21): Tanımlı = 55 km, Hesaplanan = 55 km, Fark = 0 km
+Kemalpaşa (17) - Menemen (22): Tanımlı = 53 km, Hesaplanan = 50 km, Fark = 3 km
+Kemalpaşa (17) - Narlıdere (23): Tanımlı = 55 km, Hesaplanan = 52 km, Fark = 3 km
+Kemalpaşa (17) - Ödemiş (24): Tanımlı = 96 km, Hesaplanan = 96 km, Fark = 0 km
+Kemalpaşa (17) - Seferihisar (25): Tanımlı = 86 km, Hesaplanan = 83 km, Fark = 3 km
+Kemalpaşa (17) - Selçuk (26): Tanımlı = 65 km, Hesaplanan = 65 km, Fark = 0 km
+Kemalpaşa (17) - Tire (27): Tanımlı = 73 km, Hesaplanan = 73 km, Fark = 0 km
+Kemalpaşa (17) - Urla (29): Tanımlı = 78 km, Hesaplanan = 75 km, Fark = 3 km
+Kınık (18) - Aliağa (0): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Kınık (18) - Balçova (1): Tanımlı = 154 km, Hesaplanan = 139 km, Fark = 15 km
+Kınık (18) - Bayındır (2): Tanımlı = 188 km, Hesaplanan = 184 km, Fark = 4 km
+Kınık (18) - Bayraklı (3): Tanımlı = 119 km, Hesaplanan = 115 km, Fark = 4 km
+Kınık (18) - Beydağ (5): Tanımlı = 210 km, Hesaplanan = 210 km, Fark = 0 km
+Kınık (18) - Bornova (6): Tanımlı = 125 km, Hesaplanan = 121 km, Fark = 4 km
+Kınık (18) - Buca (7): Tanımlı = 140 km, Hesaplanan = 132 km, Fark = 8 km
+Kınık (18) - Çeşme (8): Tanımlı = 229 km, Hesaplanan = 213 km, Fark = 16 km
+Kınık (18) - Çiğli (9): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Kınık (18) - Dikili (10): Tanımlı = 46 km, Hesaplanan = 46 km, Fark = 0 km
+Kınık (18) - Foça (11): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Kınık (18) - Gaziemir (12): Tanımlı = 144 km, Hesaplanan = 129 km, Fark = 15 km
+Kınık (18) - Güzelbahçe (13): Tanımlı = 171 km, Hesaplanan = 156 km, Fark = 15 km
+Kınık (18) - Karabağlar (14): Tanımlı = 147 km, Hesaplanan = 125 km, Fark = 22 km
+Kınık (18) - Karaburun (15): Tanımlı = 246 km, Hesaplanan = 230 km, Fark = 16 km
+Kınık (18) - Karşıyaka (16): Tanımlı = 114 km, Hesaplanan = 110 km, Fark = 4 km
+Kınık (18) - Kemalpaşa (17): Tanımlı = 143 km, Hesaplanan = 139 km, Fark = 4 km
+Kınık (18) - Kiraz (19): Tanımlı = 211 km, Hesaplanan = 211 km, Fark = 0 km
+Kınık (18) - Konak (20): Tanımlı = 127 km, Hesaplanan = 123 km, Fark = 4 km
+Kınık (18) - Menderes (21): Tanımlı = 160 km, Hesaplanan = 155 km, Fark = 5 km
+Kınık (18) - Menemen (22): Tanımlı = 90 km, Hesaplanan = 90 km, Fark = 0 km
+Kınık (18) - Narlıdere (23): Tanımlı = 160 km, Hesaplanan = 144 km, Fark = 16 km
+Kınık (18) - Ödemiş (24): Tanımlı = 187 km, Hesaplanan = 187 km, Fark = 0 km
+Kınık (18) - Seferihisar (25): Tanımlı = 191 km, Hesaplanan = 175 km, Fark = 16 km
+Kınık (18) - Selçuk (26): Tanımlı = 193 km, Hesaplanan = 188 km, Fark = 5 km
+Kınık (18) - Tire (27): Tanımlı = 201 km, Hesaplanan = 197 km, Fark = 4 km
+Kınık (18) - Torbalı (28): Tanımlı = 163 km, Hesaplanan = 159 km, Fark = 4 km
+Kınık (18) - Urla (29): Tanımlı = 183 km, Hesaplanan = 167 km, Fark = 16 km
+Kiraz (19) - Aliağa (0): Tanımlı = 189 km, Hesaplanan = 185 km, Fark = 4 km
+Kiraz (19) - Balçova (1): Tanımlı = 139 km, Hesaplanan = 138 km, Fark = 1 km
+Kiraz (19) - Bayındır (2): Tanımlı = 64 km, Hesaplanan = 64 km, Fark = 0 km
+Kiraz (19) - Bayraklı (3): Tanımlı = 135 km, Hesaplanan = 134 km, Fark = 1 km
+Kiraz (19) - Bergama (4): Tanımlı = 236 km, Hesaplanan = 230 km, Fark = 6 km
+Kiraz (19) - Bornova (6): Tanımlı = 132 km, Hesaplanan = 132 km, Fark = 0 km
+Kiraz (19) - Buca (7): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Kiraz (19) - Çeşme (8): Tanımlı = 213 km, Hesaplanan = 212 km, Fark = 1 km
+Kiraz (19) - Çiğli (9): Tanımlı = 144 km, Hesaplanan = 144 km, Fark = 0 km
+Kiraz (19) - Dikili (10): Tanımlı = 248 km, Hesaplanan = 244 km, Fark = 4 km
+Kiraz (19) - Foça (11): Tanımlı = 195 km, Hesaplanan = 192 km, Fark = 3 km
+Kiraz (19) - Gaziemir (12): Tanımlı = 128 km, Hesaplanan = 128 km, Fark = 0 km
+Kiraz (19) - Güzelbahçe (13): Tanımlı = 155 km, Hesaplanan = 155 km, Fark = 0 km
+Kiraz (19) - Karabağlar (14): Tanımlı = 131 km, Hesaplanan = 131 km, Fark = 0 km
+Kiraz (19) - Karaburun (15): Tanımlı = 230 km, Hesaplanan = 229 km, Fark = 1 km
+Kiraz (19) - Karşıyaka (16): Tanımlı = 140 km, Hesaplanan = 139 km, Fark = 1 km
+Kiraz (19) - Kemalpaşa (17): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Kiraz (19) - Kınık (18): Tanımlı = 211 km, Hesaplanan = 211 km, Fark = 0 km
+Kiraz (19) - Konak (20): Tanımlı = 134 km, Hesaplanan = 133 km, Fark = 1 km
+Kiraz (19) - Menderes (21): Tanımlı = 123 km, Hesaplanan = 122 km, Fark = 1 km
+Kiraz (19) - Menemen (22): Tanımlı = 163 km, Hesaplanan = 159 km, Fark = 4 km
+Kiraz (19) - Narlıdere (23): Tanımlı = 144 km, Hesaplanan = 143 km, Fark = 1 km
+Kiraz (19) - Seferihisar (25): Tanımlı = 175 km, Hesaplanan = 174 km, Fark = 1 km
+Kiraz (19) - Selçuk (26): Tanımlı = 102 km, Hesaplanan = 102 km, Fark = 0 km
+Kiraz (19) - Tire (27): Tanımlı = 63 km, Hesaplanan = 62 km, Fark = 1 km
+Kiraz (19) - Torbalı (28): Tanımlı = 94 km, Hesaplanan = 93 km, Fark = 1 km
+Kiraz (19) - Urla (29): Tanımlı = 167 km, Hesaplanan = 166 km, Fark = 1 km
+Konak (20) - Aliağa (0): Tanımlı = 63 km, Hesaplanan = 60 km, Fark = 3 km
+Konak (20) - Bayındır (2): Tanımlı = 69 km, Hesaplanan = 69 km, Fark = 0 km
+Konak (20) - Bergama (4): Tanımlı = 111 km, Hesaplanan = 107 km, Fark = 4 km
+Konak (20) - Beydağ (5): Tanımlı = 133 km, Hesaplanan = 133 km, Fark = 0 km
+Konak (20) - Çeşme (8): Tanımlı = 91 km, Hesaplanan = 90 km, Fark = 1 km
+Konak (20) - Çiğli (9): Tanımlı = 19 km, Hesaplanan = 19 km, Fark = 0 km
+Konak (20) - Dikili (10): Tanımlı = 123 km, Hesaplanan = 119 km, Fark = 4 km
+Konak (20) - Foça (11): Tanımlı = 69 km, Hesaplanan = 67 km, Fark = 2 km
+Konak (20) - Gaziemir (12): Tanımlı = 6 km, Hesaplanan = 6 km, Fark = 0 km
+Konak (20) - Güzelbahçe (13): Tanımlı = 33 km, Hesaplanan = 33 km, Fark = 0 km
+Konak (20) - Karaburun (15): Tanımlı = 108 km, Hesaplanan = 107 km, Fark = 1 km
+Konak (20) - Karşıyaka (16): Tanımlı = 13 km, Hesaplanan = 13 km, Fark = 0 km
+Konak (20) - Kemalpaşa (17): Tanımlı = 31 km, Hesaplanan = 31 km, Fark = 0 km
+Konak (20) - Kınık (18): Tanımlı = 127 km, Hesaplanan = 123 km, Fark = 4 km
+Konak (20) - Kiraz (19): Tanımlı = 134 km, Hesaplanan = 133 km, Fark = 1 km
+Konak (20) - Menderes (21): Tanımlı = 41 km, Hesaplanan = 41 km, Fark = 0 km
+Konak (20) - Menemen (22): Tanımlı = 38 km, Hesaplanan = 34 km, Fark = 4 km
+Konak (20) - Narlıdere (23): Tanımlı = 22 km, Hesaplanan = 21 km, Fark = 1 km
+Konak (20) - Ödemiş (24): Tanımlı = 105 km, Hesaplanan = 105 km, Fark = 0 km
+Konak (20) - Seferihisar (25): Tanımlı = 53 km, Hesaplanan = 52 km, Fark = 1 km
+Konak (20) - Selçuk (26): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Konak (20) - Tire (27): Tanımlı = 83 km, Hesaplanan = 82 km, Fark = 1 km
+Konak (20) - Torbalı (28): Tanımlı = 45 km, Hesaplanan = 45 km, Fark = 0 km
+Konak (20) - Urla (29): Tanımlı = 45 km, Hesaplanan = 44 km, Fark = 1 km
+Menderes (21) - Aliağa (0): Tanımlı = 96 km, Hesaplanan = 92 km, Fark = 4 km
+Menderes (21) - Balçova (1): Tanımlı = 46 km, Hesaplanan = 46 km, Fark = 0 km
+Menderes (21) - Bayındır (2): Tanımlı = 58 km, Hesaplanan = 58 km, Fark = 0 km
+Menderes (21) - Bayraklı (3): Tanımlı = 42 km, Hesaplanan = 42 km, Fark = 0 km
+Menderes (21) - Bergama (4): Tanımlı = 143 km, Hesaplanan = 139 km, Fark = 4 km
+Menderes (21) - Beydağ (5): Tanımlı = 122 km, Hesaplanan = 122 km, Fark = 0 km
+Menderes (21) - Bornova (6): Tanımlı = 39 km, Hesaplanan = 39 km, Fark = 0 km
+Menderes (21) - Çeşme (8): Tanımlı = 120 km, Hesaplanan = 120 km, Fark = 0 km
+Menderes (21) - Çiğli (9): Tanımlı = 51 km, Hesaplanan = 51 km, Fark = 0 km
+Menderes (21) - Dikili (10): Tanımlı = 155 km, Hesaplanan = 151 km, Fark = 4 km
+Menderes (21) - Foça (11): Tanımlı = 102 km, Hesaplanan = 99 km, Fark = 3 km
+Menderes (21) - Güzelbahçe (13): Tanımlı = 62 km, Hesaplanan = 62 km, Fark = 0 km
+Menderes (21) - Karaburun (15): Tanımlı = 137 km, Hesaplanan = 137 km, Fark = 0 km
+Menderes (21) - Karşıyaka (16): Tanımlı = 47 km, Hesaplanan = 47 km, Fark = 0 km
+Menderes (21) - Kemalpaşa (17): Tanımlı = 55 km, Hesaplanan = 55 km, Fark = 0 km
+Menderes (21) - Kınık (18): Tanımlı = 160 km, Hesaplanan = 155 km, Fark = 5 km
+Menderes (21) - Kiraz (19): Tanımlı = 123 km, Hesaplanan = 122 km, Fark = 1 km
+Menderes (21) - Konak (20): Tanımlı = 41 km, Hesaplanan = 41 km, Fark = 0 km
+Menderes (21) - Menemen (22): Tanımlı = 70 km, Hesaplanan = 66 km, Fark = 4 km
+Menderes (21) - Narlıdere (23): Tanımlı = 51 km, Hesaplanan = 51 km, Fark = 0 km
+Menderes (21) - Ödemiş (24): Tanımlı = 94 km, Hesaplanan = 94 km, Fark = 0 km
+Menderes (21) - Tire (27): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Menderes (21) - Urla (29): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Menemen (22) - Balçova (1): Tanımlı = 65 km, Hesaplanan = 50 km, Fark = 15 km
+Menemen (22) - Bayındır (2): Tanımlı = 99 km, Hesaplanan = 95 km, Fark = 4 km
+Menemen (22) - Bayraklı (3): Tanımlı = 29 km, Hesaplanan = 26 km, Fark = 3 km
+Menemen (22) - Bergama (4): Tanımlı = 73 km, Hesaplanan = 73 km, Fark = 0 km
+Menemen (22) - Beydağ (5): Tanımlı = 162 km, Hesaplanan = 159 km, Fark = 3 km
+Menemen (22) - Buca (7): Tanımlı = 51 km, Hesaplanan = 43 km, Fark = 8 km
+Menemen (22) - Çeşme (8): Tanımlı = 139 km, Hesaplanan = 124 km, Fark = 15 km
+Menemen (22) - Dikili (10): Tanımlı = 85 km, Hesaplanan = 85 km, Fark = 0 km
+Menemen (22) - Gaziemir (12): Tanımlı = 54 km, Hesaplanan = 40 km, Fark = 14 km
+Menemen (22) - Güzelbahçe (13): Tanımlı = 81 km, Hesaplanan = 67 km, Fark = 14 km
+Menemen (22) - Karabağlar (14): Tanımlı = 57 km, Hesaplanan = 36 km, Fark = 21 km
+Menemen (22) - Karaburun (15): Tanımlı = 156 km, Hesaplanan = 141 km, Fark = 15 km
+Menemen (22) - Kemalpaşa (17): Tanımlı = 53 km, Hesaplanan = 50 km, Fark = 3 km
+Menemen (22) - Kınık (18): Tanımlı = 90 km, Hesaplanan = 90 km, Fark = 0 km
+Menemen (22) - Kiraz (19): Tanımlı = 163 km, Hesaplanan = 159 km, Fark = 4 km
+Menemen (22) - Konak (20): Tanımlı = 38 km, Hesaplanan = 34 km, Fark = 4 km
+Menemen (22) - Menderes (21): Tanımlı = 70 km, Hesaplanan = 66 km, Fark = 4 km
+Menemen (22) - Narlıdere (23): Tanımlı = 70 km, Hesaplanan = 55 km, Fark = 15 km
+Menemen (22) - Ödemiş (24): Tanımlı = 134 km, Hesaplanan = 131 km, Fark = 3 km
+Menemen (22) - Seferihisar (25): Tanımlı = 101 km, Hesaplanan = 86 km, Fark = 15 km
+Menemen (22) - Selçuk (26): Tanımlı = 103 km, Hesaplanan = 99 km, Fark = 4 km
+Menemen (22) - Tire (27): Tanımlı = 112 km, Hesaplanan = 108 km, Fark = 4 km
+Menemen (22) - Torbalı (28): Tanımlı = 74 km, Hesaplanan = 70 km, Fark = 4 km
+Menemen (22) - Urla (29): Tanımlı = 93 km, Hesaplanan = 78 km, Fark = 15 km
+Narlıdere (23) - Aliağa (0): Tanımlı = 96 km, Hesaplanan = 81 km, Fark = 15 km
+Narlıdere (23) - Bayındır (2): Tanımlı = 80 km, Hesaplanan = 79 km, Fark = 1 km
+Narlıdere (23) - Bayraklı (3): Tanımlı = 42 km, Hesaplanan = 29 km, Fark = 13 km
+Narlıdere (23) - Bergama (4): Tanımlı = 143 km, Hesaplanan = 128 km, Fark = 15 km
+Narlıdere (23) - Beydağ (5): Tanımlı = 143 km, Hesaplanan = 143 km, Fark = 0 km
+Narlıdere (23) - Bornova (6): Tanımlı = 39 km, Hesaplanan = 34 km, Fark = 5 km
+Narlıdere (23) - Buca (7): Tanımlı = 19 km, Hesaplanan = 19 km, Fark = 0 km
+Narlıdere (23) - Çeşme (8): Tanımlı = 71 km, Hesaplanan = 71 km, Fark = 0 km
+Narlıdere (23) - Çiğli (9): Tanımlı = 51 km, Hesaplanan = 40 km, Fark = 11 km
+Narlıdere (23) - Dikili (10): Tanımlı = 155 km, Hesaplanan = 140 km, Fark = 15 km
+Narlıdere (23) - Foça (11): Tanımlı = 102 km, Hesaplanan = 88 km, Fark = 14 km
+Narlıdere (23) - Gaziemir (12): Tanımlı = 16 km, Hesaplanan = 16 km, Fark = 0 km
+Narlıdere (23) - Karaburun (15): Tanımlı = 88 km, Hesaplanan = 88 km, Fark = 0 km
+Narlıdere (23) - Karşıyaka (16): Tanımlı = 47 km, Hesaplanan = 34 km, Fark = 13 km
+Narlıdere (23) - Kemalpaşa (17): Tanımlı = 55 km, Hesaplanan = 52 km, Fark = 3 km
+Narlıdere (23) - Kınık (18): Tanımlı = 160 km, Hesaplanan = 144 km, Fark = 16 km
+Narlıdere (23) - Kiraz (19): Tanımlı = 144 km, Hesaplanan = 143 km, Fark = 1 km
+Narlıdere (23) - Konak (20): Tanımlı = 22 km, Hesaplanan = 21 km, Fark = 1 km
+Narlıdere (23) - Menderes (21): Tanımlı = 51 km, Hesaplanan = 51 km, Fark = 0 km
+Narlıdere (23) - Menemen (22): Tanımlı = 70 km, Hesaplanan = 55 km, Fark = 15 km
+Narlıdere (23) - Ödemiş (24): Tanımlı = 115 km, Hesaplanan = 115 km, Fark = 0 km
+Narlıdere (23) - Seferihisar (25): Tanımlı = 33 km, Hesaplanan = 33 km, Fark = 0 km
+Narlıdere (23) - Selçuk (26): Tanımlı = 84 km, Hesaplanan = 84 km, Fark = 0 km
+Narlıdere (23) - Tire (27): Tanımlı = 93 km, Hesaplanan = 92 km, Fark = 1 km
+Narlıdere (23) - Torbalı (28): Tanımlı = 55 km, Hesaplanan = 55 km, Fark = 0 km
+Narlıdere (23) - Urla (29): Tanımlı = 25 km, Hesaplanan = 25 km, Fark = 0 km
+Ödemiş (24) - Aliağa (0): Tanımlı = 160 km, Hesaplanan = 157 km, Fark = 3 km
+Ödemiş (24) - Balçova (1): Tanımlı = 110 km, Hesaplanan = 110 km, Fark = 0 km
+Ödemiş (24) - Bayraklı (3): Tanımlı = 106 km, Hesaplanan = 106 km, Fark = 0 km
+Ödemiş (24) - Bergama (4): Tanımlı = 208 km, Hesaplanan = 204 km, Fark = 4 km
+Ödemiş (24) - Bornova (6): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Ödemiş (24) - Buca (7): Tanımlı = 96 km, Hesaplanan = 96 km, Fark = 0 km
+Ödemiş (24) - Çeşme (8): Tanımlı = 185 km, Hesaplanan = 184 km, Fark = 1 km
+Ödemiş (24) - Çiğli (9): Tanımlı = 116 km, Hesaplanan = 116 km, Fark = 0 km
+Ödemiş (24) - Dikili (10): Tanımlı = 220 km, Hesaplanan = 216 km, Fark = 4 km
+Ödemiş (24) - Foça (11): Tanımlı = 166 km, Hesaplanan = 164 km, Fark = 2 km
+Ödemiş (24) - Gaziemir (12): Tanımlı = 100 km, Hesaplanan = 100 km, Fark = 0 km
+Ödemiş (24) - Güzelbahçe (13): Tanımlı = 127 km, Hesaplanan = 127 km, Fark = 0 km
+Ödemiş (24) - Karabağlar (14): Tanımlı = 103 km, Hesaplanan = 103 km, Fark = 0 km
+Ödemiş (24) - Karaburun (15): Tanımlı = 202 km, Hesaplanan = 201 km, Fark = 1 km
+Ödemiş (24) - Karşıyaka (16): Tanımlı = 111 km, Hesaplanan = 111 km, Fark = 0 km
+Ödemiş (24) - Kemalpaşa (17): Tanımlı = 96 km, Hesaplanan = 96 km, Fark = 0 km
+Ödemiş (24) - Kınık (18): Tanımlı = 187 km, Hesaplanan = 187 km, Fark = 0 km
+Ödemiş (24) - Konak (20): Tanımlı = 105 km, Hesaplanan = 105 km, Fark = 0 km
+Ödemiş (24) - Menderes (21): Tanımlı = 94 km, Hesaplanan = 94 km, Fark = 0 km
+Ödemiş (24) - Menemen (22): Tanımlı = 134 km, Hesaplanan = 131 km, Fark = 3 km
+Ödemiş (24) - Narlıdere (23): Tanımlı = 115 km, Hesaplanan = 115 km, Fark = 0 km
+Ödemiş (24) - Seferihisar (25): Tanımlı = 146 km, Hesaplanan = 146 km, Fark = 0 km
+Ödemiş (24) - Selçuk (26): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Ödemiş (24) - Torbalı (28): Tanımlı = 65 km, Hesaplanan = 65 km, Fark = 0 km
+Ödemiş (24) - Urla (29): Tanımlı = 139 km, Hesaplanan = 138 km, Fark = 1 km
+Seferihisar (25) - Aliağa (0): Tanımlı = 127 km, Hesaplanan = 112 km, Fark = 15 km
+Seferihisar (25) - Balçova (1): Tanımlı = 36 km, Hesaplanan = 36 km, Fark = 0 km
+Seferihisar (25) - Bayındır (2): Tanımlı = 111 km, Hesaplanan = 110 km, Fark = 1 km
+Seferihisar (25) - Bayraklı (3): Tanımlı = 73 km, Hesaplanan = 60 km, Fark = 13 km
+Seferihisar (25) - Bergama (4): Tanımlı = 174 km, Hesaplanan = 159 km, Fark = 15 km
+Seferihisar (25) - Beydağ (5): Tanımlı = 174 km, Hesaplanan = 174 km, Fark = 0 km
+Seferihisar (25) - Bornova (6): Tanımlı = 70 km, Hesaplanan = 65 km, Fark = 5 km
+Seferihisar (25) - Buca (7): Tanımlı = 50 km, Hesaplanan = 50 km, Fark = 0 km
+Seferihisar (25) - Çeşme (8): Tanımlı = 78 km, Hesaplanan = 78 km, Fark = 0 km
+Seferihisar (25) - Çiğli (9): Tanımlı = 82 km, Hesaplanan = 71 km, Fark = 11 km
+Seferihisar (25) - Dikili (10): Tanımlı = 186 km, Hesaplanan = 171 km, Fark = 15 km
+Seferihisar (25) - Foça (11): Tanımlı = 133 km, Hesaplanan = 119 km, Fark = 14 km
+Seferihisar (25) - Gaziemir (12): Tanımlı = 47 km, Hesaplanan = 47 km, Fark = 0 km
+Seferihisar (25) - Karaburun (15): Tanımlı = 95 km, Hesaplanan = 95 km, Fark = 0 km
+Seferihisar (25) - Karşıyaka (16): Tanımlı = 78 km, Hesaplanan = 65 km, Fark = 13 km
+Seferihisar (25) - Kemalpaşa (17): Tanımlı = 86 km, Hesaplanan = 83 km, Fark = 3 km
+Seferihisar (25) - Kınık (18): Tanımlı = 191 km, Hesaplanan = 175 km, Fark = 16 km
+Seferihisar (25) - Kiraz (19): Tanımlı = 175 km, Hesaplanan = 174 km, Fark = 1 km
+Seferihisar (25) - Konak (20): Tanımlı = 53 km, Hesaplanan = 52 km, Fark = 1 km
+Seferihisar (25) - Menemen (22): Tanımlı = 101 km, Hesaplanan = 86 km, Fark = 15 km
+Seferihisar (25) - Narlıdere (23): Tanımlı = 33 km, Hesaplanan = 33 km, Fark = 0 km
+Seferihisar (25) - Ödemiş (24): Tanımlı = 146 km, Hesaplanan = 146 km, Fark = 0 km
+Seferihisar (25) - Selçuk (26): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Seferihisar (25) - Tire (27): Tanımlı = 124 km, Hesaplanan = 112 km, Fark = 12 km
+Seferihisar (25) - Torbalı (28): Tanımlı = 86 km, Hesaplanan = 86 km, Fark = 0 km
+Selçuk (26) - Aliağa (0): Tanımlı = 129 km, Hesaplanan = 125 km, Fark = 4 km
+Selçuk (26) - Balçova (1): Tanımlı = 79 km, Hesaplanan = 79 km, Fark = 0 km
+Selçuk (26) - Bayındır (2): Tanımlı = 58 km, Hesaplanan = 58 km, Fark = 0 km
+Selçuk (26) - Bayraklı (3): Tanımlı = 75 km, Hesaplanan = 75 km, Fark = 0 km
+Selçuk (26) - Bergama (4): Tanımlı = 176 km, Hesaplanan = 172 km, Fark = 4 km
+Selçuk (26) - Beydağ (5): Tanımlı = 102 km, Hesaplanan = 102 km, Fark = 0 km
+Selçuk (26) - Bornova (6): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Selçuk (26) - Buca (7): Tanımlı = 65 km, Hesaplanan = 65 km, Fark = 0 km
+Selçuk (26) - Çeşme (8): Tanımlı = 153 km, Hesaplanan = 150 km, Fark = 3 km
+Selçuk (26) - Çiğli (9): Tanımlı = 84 km, Hesaplanan = 84 km, Fark = 0 km
+Selçuk (26) - Dikili (10): Tanımlı = 188 km, Hesaplanan = 184 km, Fark = 4 km
+Selçuk (26) - Foça (11): Tanımlı = 135 km, Hesaplanan = 132 km, Fark = 3 km
+Selçuk (26) - Gaziemir (12): Tanımlı = 68 km, Hesaplanan = 68 km, Fark = 0 km
+Selçuk (26) - Güzelbahçe (13): Tanımlı = 96 km, Hesaplanan = 92 km, Fark = 4 km
+Selçuk (26) - Karabağlar (14): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Selçuk (26) - Karaburun (15): Tanımlı = 170 km, Hesaplanan = 167 km, Fark = 3 km
+Selçuk (26) - Karşıyaka (16): Tanımlı = 80 km, Hesaplanan = 80 km, Fark = 0 km
+Selçuk (26) - Kemalpaşa (17): Tanımlı = 65 km, Hesaplanan = 65 km, Fark = 0 km
+Selçuk (26) - Kınık (18): Tanımlı = 193 km, Hesaplanan = 188 km, Fark = 5 km
+Selçuk (26) - Kiraz (19): Tanımlı = 102 km, Hesaplanan = 102 km, Fark = 0 km
+Selçuk (26) - Konak (20): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Selçuk (26) - Menemen (22): Tanımlı = 103 km, Hesaplanan = 99 km, Fark = 4 km
+Selçuk (26) - Narlıdere (23): Tanımlı = 84 km, Hesaplanan = 84 km, Fark = 0 km
+Selçuk (26) - Ödemiş (24): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Selçuk (26) - Seferihisar (25): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Selçuk (26) - Urla (29): Tanımlı = 107 km, Hesaplanan = 104 km, Fark = 3 km
+Tire (27) - Aliağa (0): Tanımlı = 138 km, Hesaplanan = 134 km, Fark = 4 km
+Tire (27) - Balçova (1): Tanımlı = 88 km, Hesaplanan = 87 km, Fark = 1 km
+Tire (27) - Bayraklı (3): Tanımlı = 84 km, Hesaplanan = 84 km, Fark = 0 km
+Tire (27) - Bergama (4): Tanımlı = 185 km, Hesaplanan = 181 km, Fark = 4 km
+Tire (27) - Beydağ (5): Tanımlı = 62 km, Hesaplanan = 62 km, Fark = 0 km
+Tire (27) - Bornova (6): Tanımlı = 81 km, Hesaplanan = 81 km, Fark = 0 km
+Tire (27) - Buca (7): Tanımlı = 73 km, Hesaplanan = 73 km, Fark = 0 km
+Tire (27) - Çeşme (8): Tanımlı = 162 km, Hesaplanan = 161 km, Fark = 1 km
+Tire (27) - Çiğli (9): Tanımlı = 93 km, Hesaplanan = 93 km, Fark = 0 km
+Tire (27) - Dikili (10): Tanımlı = 197 km, Hesaplanan = 193 km, Fark = 4 km
+Tire (27) - Foça (11): Tanımlı = 143 km, Hesaplanan = 141 km, Fark = 2 km
+Tire (27) - Gaziemir (12): Tanımlı = 77 km, Hesaplanan = 77 km, Fark = 0 km
+Tire (27) - Güzelbahçe (13): Tanımlı = 104 km, Hesaplanan = 104 km, Fark = 0 km
+Tire (27) - Karabağlar (14): Tanımlı = 80 km, Hesaplanan = 80 km, Fark = 0 km
+Tire (27) - Karaburun (15): Tanımlı = 179 km, Hesaplanan = 178 km, Fark = 1 km
+Tire (27) - Karşıyaka (16): Tanımlı = 89 km, Hesaplanan = 89 km, Fark = 0 km
+Tire (27) - Kemalpaşa (17): Tanımlı = 73 km, Hesaplanan = 73 km, Fark = 0 km
+Tire (27) - Kınık (18): Tanımlı = 201 km, Hesaplanan = 197 km, Fark = 4 km
+Tire (27) - Kiraz (19): Tanımlı = 63 km, Hesaplanan = 62 km, Fark = 1 km
+Tire (27) - Konak (20): Tanımlı = 83 km, Hesaplanan = 82 km, Fark = 1 km
+Tire (27) - Menderes (21): Tanımlı = 72 km, Hesaplanan = 72 km, Fark = 0 km
+Tire (27) - Menemen (22): Tanımlı = 112 km, Hesaplanan = 108 km, Fark = 4 km
+Tire (27) - Narlıdere (23): Tanımlı = 93 km, Hesaplanan = 92 km, Fark = 1 km
+Tire (27) - Seferihisar (25): Tanımlı = 124 km, Hesaplanan = 112 km, Fark = 12 km
+Tire (27) - Urla (29): Tanımlı = 116 km, Hesaplanan = 115 km, Fark = 1 km
+Torbalı (28) - Aliağa (0): Tanımlı = 100 km, Hesaplanan = 96 km, Fark = 4 km
+Torbalı (28) - Balçova (1): Tanımlı = 50 km, Hesaplanan = 50 km, Fark = 0 km
+Torbalı (28) - Bayraklı (3): Tanımlı = 46 km, Hesaplanan = 46 km, Fark = 0 km
+Torbalı (28) - Bergama (4): Tanımlı = 147 km, Hesaplanan = 143 km, Fark = 4 km
+Torbalı (28) - Beydağ (5): Tanımlı = 93 km, Hesaplanan = 93 km, Fark = 0 km
+Torbalı (28) - Bornova (6): Tanımlı = 43 km, Hesaplanan = 43 km, Fark = 0 km
+Torbalı (28) - Çeşme (8): Tanımlı = 124 km, Hesaplanan = 124 km, Fark = 0 km
+Torbalı (28) - Çiğli (9): Tanımlı = 55 km, Hesaplanan = 55 km, Fark = 0 km
+Torbalı (28) - Dikili (10): Tanımlı = 159 km, Hesaplanan = 155 km, Fark = 4 km
+Torbalı (28) - Foça (11): Tanımlı = 106 km, Hesaplanan = 103 km, Fark = 3 km
+Torbalı (28) - Gaziemir (12): Tanımlı = 39 km, Hesaplanan = 39 km, Fark = 0 km
+Torbalı (28) - Güzelbahçe (13): Tanımlı = 66 km, Hesaplanan = 66 km, Fark = 0 km
+Torbalı (28) - Karabağlar (14): Tanımlı = 43 km, Hesaplanan = 43 km, Fark = 0 km
+Torbalı (28) - Karaburun (15): Tanımlı = 141 km, Hesaplanan = 141 km, Fark = 0 km
+Torbalı (28) - Karşıyaka (16): Tanımlı = 51 km, Hesaplanan = 51 km, Fark = 0 km
+Torbalı (28) - Kınık (18): Tanımlı = 163 km, Hesaplanan = 159 km, Fark = 4 km
+Torbalı (28) - Kiraz (19): Tanımlı = 94 km, Hesaplanan = 93 km, Fark = 1 km
+Torbalı (28) - Konak (20): Tanımlı = 45 km, Hesaplanan = 45 km, Fark = 0 km
+Torbalı (28) - Menemen (22): Tanımlı = 74 km, Hesaplanan = 70 km, Fark = 4 km
+Torbalı (28) - Narlıdere (23): Tanımlı = 55 km, Hesaplanan = 55 km, Fark = 0 km
+Torbalı (28) - Ödemiş (24): Tanımlı = 65 km, Hesaplanan = 65 km, Fark = 0 km
+Torbalı (28) - Seferihisar (25): Tanımlı = 86 km, Hesaplanan = 86 km, Fark = 0 km
+Torbalı (28) - Urla (29): Tanımlı = 78 km, Hesaplanan = 78 km, Fark = 0 km
+Urla (29) - Aliağa (0): Tanımlı = 119 km, Hesaplanan = 104 km, Fark = 15 km
+Urla (29) - Balçova (1): Tanımlı = 28 km, Hesaplanan = 28 km, Fark = 0 km
+Urla (29) - Bayındır (2): Tanımlı = 103 km, Hesaplanan = 102 km, Fark = 1 km
+Urla (29) - Bayraklı (3): Tanımlı = 65 km, Hesaplanan = 52 km, Fark = 13 km
+Urla (29) - Bergama (4): Tanımlı = 166 km, Hesaplanan = 151 km, Fark = 15 km
+Urla (29) - Beydağ (5): Tanımlı = 166 km, Hesaplanan = 166 km, Fark = 0 km
+Urla (29) - Bornova (6): Tanımlı = 63 km, Hesaplanan = 57 km, Fark = 6 km
+Urla (29) - Buca (7): Tanımlı = 43 km, Hesaplanan = 42 km, Fark = 1 km
+Urla (29) - Çiğli (9): Tanımlı = 75 km, Hesaplanan = 63 km, Fark = 12 km
+Urla (29) - Dikili (10): Tanımlı = 179 km, Hesaplanan = 163 km, Fark = 16 km
+Urla (29) - Foça (11): Tanımlı = 125 km, Hesaplanan = 111 km, Fark = 14 km
+Urla (29) - Gaziemir (12): Tanımlı = 39 km, Hesaplanan = 39 km, Fark = 0 km
+Urla (29) - Karabağlar (14): Tanımlı = 43 km, Hesaplanan = 42 km, Fark = 1 km
+Urla (29) - Karşıyaka (16): Tanımlı = 70 km, Hesaplanan = 57 km, Fark = 13 km
+Urla (29) - Kemalpaşa (17): Tanımlı = 78 km, Hesaplanan = 75 km, Fark = 3 km
+Urla (29) - Kınık (18): Tanımlı = 183 km, Hesaplanan = 167 km, Fark = 16 km
+Urla (29) - Kiraz (19): Tanımlı = 167 km, Hesaplanan = 166 km, Fark = 1 km
+Urla (29) - Konak (20): Tanımlı = 45 km, Hesaplanan = 44 km, Fark = 1 km
+Urla (29) - Menderes (21): Tanımlı = 74 km, Hesaplanan = 74 km, Fark = 0 km
+Urla (29) - Menemen (22): Tanımlı = 93 km, Hesaplanan = 78 km, Fark = 15 km
+Urla (29) - Narlıdere (23): Tanımlı = 25 km, Hesaplanan = 25 km, Fark = 0 km
+Urla (29) - Ödemiş (24): Tanımlı = 139 km, Hesaplanan = 138 km, Fark = 1 km
+Urla (29) - Selçuk (26): Tanımlı = 107 km, Hesaplanan = 104 km, Fark = 3 km
+Urla (29) - Tire (27): Tanımlı = 116 km, Hesaplanan = 115 km, Fark = 1 km
+Urla (29) - Torbalı (28): Tanımlı = 78 km, Hesaplanan = 78 km, Fark = 0 km
+
+En küçük fark: 0 km, İlçeler:
+Aliağa (0) - Çiğli (9)
+Aliağa (0) - Dikili (10)
+Aliağa (0) - Kınık (18)
+Balçova (1) - Beydağ (5)
+Balçova (1) - Buca (7)
+Balçova (1) - Çeşme (8)
+Balçova (1) - Gaziemir (12)
+Balçova (1) - Güzelbahçe (13)
+Balçova (1) - Karaburun (15)
+Balçova (1) - Menderes (21)
+Balçova (1) - Ödemiş (24)
+Balçova (1) - Seferihisar (25)
+Balçova (1) - Selçuk (26)
+Balçova (1) - Torbalı (28)
+Balçova (1) - Urla (29)
+Bayındır (2) - Bayraklı (3)
+Bayındır (2) - Beydağ (5)
+Bayındır (2) - Bornova (6)
+Bayındır (2) - Buca (7)
+Bayındır (2) - Çiğli (9)
+Bayındır (2) - Gaziemir (12)
+Bayındır (2) - Güzelbahçe (13)
+Bayındır (2) - Karabağlar (14)
+Bayındır (2) - Karşıyaka (16)
+Bayındır (2) - Kiraz (19)
+Bayındır (2) - Konak (20)
+Bayındır (2) - Menderes (21)
+Bayındır (2) - Selçuk (26)
+Bayraklı (3) - Bayındır (2)
+Bayraklı (3) - Beydağ (5)
+Bayraklı (3) - Çiğli (9)
+Bayraklı (3) - Kemalpaşa (17)
+Bayraklı (3) - Menderes (21)
+Bayraklı (3) - Ödemiş (24)
+Bayraklı (3) - Selçuk (26)
+Bayraklı (3) - Tire (27)
+Bayraklı (3) - Torbalı (28)
+Bergama (4) - Çiğli (9)
+Bergama (4) - Foça (11)
+Bergama (4) - Menemen (22)
+Beydağ (5) - Balçova (1)
+Beydağ (5) - Bayındır (2)
+Beydağ (5) - Bayraklı (3)
+Beydağ (5) - Bornova (6)
+Beydağ (5) - Buca (7)
+Beydağ (5) - Çeşme (8)
+Beydağ (5) - Çiğli (9)
+Beydağ (5) - Gaziemir (12)
+Beydağ (5) - Karabağlar (14)
+Beydağ (5) - Karaburun (15)
+Beydağ (5) - Karşıyaka (16)
+Beydağ (5) - Kemalpaşa (17)
+Beydağ (5) - Kınık (18)
+Beydağ (5) - Konak (20)
+Beydağ (5) - Menderes (21)
+Beydağ (5) - Narlıdere (23)
+Beydağ (5) - Seferihisar (25)
+Beydağ (5) - Selçuk (26)
+Beydağ (5) - Tire (27)
+Beydağ (5) - Torbalı (28)
+Beydağ (5) - Urla (29)
+Bornova (6) - Bayındır (2)
+Bornova (6) - Beydağ (5)
+Bornova (6) - Çiğli (9)
+Bornova (6) - Kiraz (19)
+Bornova (6) - Menderes (21)
+Bornova (6) - Ödemiş (24)
+Bornova (6) - Selçuk (26)
+Bornova (6) - Tire (27)
+Bornova (6) - Torbalı (28)
+Buca (7) - Balçova (1)
+Buca (7) - Bayındır (2)
+Buca (7) - Beydağ (5)
+Buca (7) - Güzelbahçe (13)
+Buca (7) - Kiraz (19)
+Buca (7) - Menderes (21)
+Buca (7) - Narlıdere (23)
+Buca (7) - Ödemiş (24)
+Buca (7) - Seferihisar (25)
+Buca (7) - Selçuk (26)
+Buca (7) - Tire (27)
+Çeşme (8) - Balçova (1)
+Çeşme (8) - Beydağ (5)
+Çeşme (8) - Gaziemir (12)
+Çeşme (8) - Güzelbahçe (13)
+Çeşme (8) - Karaburun (15)
+Çeşme (8) - Menderes (21)
+Çeşme (8) - Narlıdere (23)
+Çeşme (8) - Seferihisar (25)
+Çeşme (8) - Torbalı (28)
+Çiğli (9) - Aliağa (0)
+Çiğli (9) - Bayındır (2)
+Çiğli (9) - Bayraklı (3)
+Çiğli (9) - Bergama (4)
+Çiğli (9) - Beydağ (5)
+Çiğli (9) - Bornova (6)
+Çiğli (9) - Dikili (10)
+Çiğli (9) - Foça (11)
+Çiğli (9) - Kemalpaşa (17)
+Çiğli (9) - Kınık (18)
+Çiğli (9) - Kiraz (19)
+Çiğli (9) - Konak (20)
+Çiğli (9) - Menderes (21)
+Çiğli (9) - Ödemiş (24)
+Çiğli (9) - Selçuk (26)
+Çiğli (9) - Tire (27)
+Çiğli (9) - Torbalı (28)
+Dikili (10) - Aliağa (0)
+Dikili (10) - Çiğli (9)
+Dikili (10) - Foça (11)
+Dikili (10) - Kınık (18)
+Dikili (10) - Menemen (22)
+Foça (11) - Bergama (4)
+Foça (11) - Çiğli (9)
+Foça (11) - Dikili (10)
+Foça (11) - Kınık (18)
+Gaziemir (12) - Balçova (1)
+Gaziemir (12) - Bayındır (2)
+Gaziemir (12) - Beydağ (5)
+Gaziemir (12) - Çeşme (8)
+Gaziemir (12) - Güzelbahçe (13)
+Gaziemir (12) - Karaburun (15)
+Gaziemir (12) - Kiraz (19)
+Gaziemir (12) - Konak (20)
+Gaziemir (12) - Narlıdere (23)
+Gaziemir (12) - Ödemiş (24)
+Gaziemir (12) - Seferihisar (25)
+Gaziemir (12) - Selçuk (26)
+Gaziemir (12) - Tire (27)
+Gaziemir (12) - Torbalı (28)
+Gaziemir (12) - Urla (29)
+Güzelbahçe (13) - Balçova (1)
+Güzelbahçe (13) - Bayındır (2)
+Güzelbahçe (13) - Buca (7)
+Güzelbahçe (13) - Çeşme (8)
+Güzelbahçe (13) - Gaziemir (12)
+Güzelbahçe (13) - Karaburun (15)
+Güzelbahçe (13) - Kiraz (19)
+Güzelbahçe (13) - Konak (20)
+Güzelbahçe (13) - Menderes (21)
+Güzelbahçe (13) - Ödemiş (24)
+Güzelbahçe (13) - Tire (27)
+Güzelbahçe (13) - Torbalı (28)
+Karabağlar (14) - Bayındır (2)
+Karabağlar (14) - Beydağ (5)
+Karabağlar (14) - Karşıyaka (16)
+Karabağlar (14) - Kiraz (19)
+Karabağlar (14) - Ödemiş (24)
+Karabağlar (14) - Selçuk (26)
+Karabağlar (14) - Tire (27)
+Karabağlar (14) - Torbalı (28)
+Karaburun (15) - Balçova (1)
+Karaburun (15) - Beydağ (5)
+Karaburun (15) - Çeşme (8)
+Karaburun (15) - Gaziemir (12)
+Karaburun (15) - Güzelbahçe (13)
+Karaburun (15) - Menderes (21)
+Karaburun (15) - Narlıdere (23)
+Karaburun (15) - Seferihisar (25)
+Karaburun (15) - Torbalı (28)
+Karşıyaka (16) - Bayındır (2)
+Karşıyaka (16) - Beydağ (5)
+Karşıyaka (16) - Karabağlar (14)
+Karşıyaka (16) - Kemalpaşa (17)
+Karşıyaka (16) - Konak (20)
+Karşıyaka (16) - Menderes (21)
+Karşıyaka (16) - Ödemiş (24)
+Karşıyaka (16) - Selçuk (26)
+Karşıyaka (16) - Tire (27)
+Karşıyaka (16) - Torbalı (28)
+Kemalpaşa (17) - Bayraklı (3)
+Kemalpaşa (17) - Beydağ (5)
+Kemalpaşa (17) - Çiğli (9)
+Kemalpaşa (17) - Karşıyaka (16)
+Kemalpaşa (17) - Kiraz (19)
+Kemalpaşa (17) - Konak (20)
+Kemalpaşa (17) - Menderes (21)
+Kemalpaşa (17) - Ödemiş (24)
+Kemalpaşa (17) - Selçuk (26)
+Kemalpaşa (17) - Tire (27)
+Kınık (18) - Aliağa (0)
+Kınık (18) - Beydağ (5)
+Kınık (18) - Çiğli (9)
+Kınık (18) - Dikili (10)
+Kınık (18) - Foça (11)
+Kınık (18) - Kiraz (19)
+Kınık (18) - Menemen (22)
+Kınık (18) - Ödemiş (24)
+Kiraz (19) - Bayındır (2)
+Kiraz (19) - Bornova (6)
+Kiraz (19) - Buca (7)
+Kiraz (19) - Çiğli (9)
+Kiraz (19) - Gaziemir (12)
+Kiraz (19) - Güzelbahçe (13)
+Kiraz (19) - Karabağlar (14)
+Kiraz (19) - Kemalpaşa (17)
+Kiraz (19) - Kınık (18)
+Kiraz (19) - Selçuk (26)
+Konak (20) - Bayındır (2)
+Konak (20) - Beydağ (5)
+Konak (20) - Çiğli (9)
+Konak (20) - Gaziemir (12)
+Konak (20) - Güzelbahçe (13)
+Konak (20) - Karşıyaka (16)
+Konak (20) - Kemalpaşa (17)
+Konak (20) - Menderes (21)
+Konak (20) - Ödemiş (24)
+Konak (20) - Selçuk (26)
+Konak (20) - Torbalı (28)
+Menderes (21) - Balçova (1)
+Menderes (21) - Bayındır (2)
+Menderes (21) - Bayraklı (3)
+Menderes (21) - Beydağ (5)
+Menderes (21) - Bornova (6)
+Menderes (21) - Çeşme (8)
+Menderes (21) - Çiğli (9)
+Menderes (21) - Güzelbahçe (13)
+Menderes (21) - Karaburun (15)
+Menderes (21) - Karşıyaka (16)
+Menderes (21) - Kemalpaşa (17)
+Menderes (21) - Konak (20)
+Menderes (21) - Narlıdere (23)
+Menderes (21) - Ödemiş (24)
+Menderes (21) - Tire (27)
+Menderes (21) - Urla (29)
+Menemen (22) - Bergama (4)
+Menemen (22) - Dikili (10)
+Menemen (22) - Kınık (18)
+Narlıdere (23) - Beydağ (5)
+Narlıdere (23) - Buca (7)
+Narlıdere (23) - Çeşme (8)
+Narlıdere (23) - Gaziemir (12)
+Narlıdere (23) - Karaburun (15)
+Narlıdere (23) - Menderes (21)
+Narlıdere (23) - Ödemiş (24)
+Narlıdere (23) - Seferihisar (25)
+Narlıdere (23) - Selçuk (26)
+Narlıdere (23) - Torbalı (28)
+Narlıdere (23) - Urla (29)
+Ödemiş (24) - Balçova (1)
+Ödemiş (24) - Bayraklı (3)
+Ödemiş (24) - Bornova (6)
+Ödemiş (24) - Buca (7)
+Ödemiş (24) - Çiğli (9)
+Ödemiş (24) - Gaziemir (12)
+Ödemiş (24) - Güzelbahçe (13)
+Ödemiş (24) - Karabağlar (14)
+Ödemiş (24) - Karşıyaka (16)
+Ödemiş (24) - Kemalpaşa (17)
+Ödemiş (24) - Kınık (18)
+Ödemiş (24) - Konak (20)
+Ödemiş (24) - Menderes (21)
+Ödemiş (24) - Narlıdere (23)
+Ödemiş (24) - Seferihisar (25)
+Ödemiş (24) - Selçuk (26)
+Ödemiş (24) - Torbalı (28)
+Seferihisar (25) - Balçova (1)
+Seferihisar (25) - Beydağ (5)
+Seferihisar (25) - Buca (7)
+Seferihisar (25) - Çeşme (8)
+Seferihisar (25) - Gaziemir (12)
+Seferihisar (25) - Karaburun (15)
+Seferihisar (25) - Narlıdere (23)
+Seferihisar (25) - Ödemiş (24)
+Seferihisar (25) - Selçuk (26)
+Seferihisar (25) - Torbalı (28)
+Selçuk (26) - Balçova (1)
+Selçuk (26) - Bayındır (2)
+Selçuk (26) - Bayraklı (3)
+Selçuk (26) - Beydağ (5)
+Selçuk (26) - Bornova (6)
+Selçuk (26) - Buca (7)
+Selçuk (26) - Çiğli (9)
+Selçuk (26) - Gaziemir (12)
+Selçuk (26) - Karabağlar (14)
+Selçuk (26) - Karşıyaka (16)
+Selçuk (26) - Kemalpaşa (17)
+Selçuk (26) - Kiraz (19)
+Selçuk (26) - Konak (20)
+Selçuk (26) - Narlıdere (23)
+Selçuk (26) - Ödemiş (24)
+Selçuk (26) - Seferihisar (25)
+Tire (27) - Bayraklı (3)
+Tire (27) - Beydağ (5)
+Tire (27) - Bornova (6)
+Tire (27) - Buca (7)
+Tire (27) - Çiğli (9)
+Tire (27) - Gaziemir (12)
+Tire (27) - Güzelbahçe (13)
+Tire (27) - Karabağlar (14)
+Tire (27) - Karşıyaka (16)
+Tire (27) - Kemalpaşa (17)
+Tire (27) - Menderes (21)
+Torbalı (28) - Balçova (1)
+Torbalı (28) - Bayraklı (3)
+Torbalı (28) - Beydağ (5)
+Torbalı (28) - Bornova (6)
+Torbalı (28) - Çeşme (8)
+Torbalı (28) - Çiğli (9)
+Torbalı (28) - Gaziemir (12)
+Torbalı (28) - Güzelbahçe (13)
+Torbalı (28) - Karabağlar (14)
+Torbalı (28) - Karaburun (15)
+Torbalı (28) - Karşıyaka (16)
+Torbalı (28) - Konak (20)
+Torbalı (28) - Narlıdere (23)
+Torbalı (28) - Ödemiş (24)
+Torbalı (28) - Seferihisar (25)
+Torbalı (28) - Urla (29)
+Urla (29) - Balçova (1)
+Urla (29) - Beydağ (5)
+Urla (29) - Gaziemir (12)
+Urla (29) - Menderes (21)
+Urla (29) - Narlıdere (23)
+Urla (29) - Torbalı (28)
+
+En büyük fark: 22 km, İlçeler:
+Bergama (4) - Karabağlar (14)
+Dikili (10) - Karabağlar (14)
+Karabağlar (14) - Bergama (4)
+Karabağlar (14) - Dikili (10)
+Karabağlar (14) - Kınık (18)
+Kınık (18) - Karabağlar (14)

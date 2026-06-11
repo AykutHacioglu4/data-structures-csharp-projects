@@ -1,0 +1,7 @@
+C:\Users\Ceylin\source\repos\ProjePart3\bin\Debug\ProjePart3.exe.config
+C:\Users\Ceylin\source\repos\ProjePart3\bin\Debug\ProjePart3.exe
+C:\Users\Ceylin\source\repos\ProjePart3\bin\Debug\ProjePart3.pdb
+C:\Users\Ceylin\source\repos\ProjePart3\obj\Debug\ProjePart3.csproj.AssemblyReference.cache
+C:\Users\Ceylin\source\repos\ProjePart3\obj\Debug\ProjePart3.csproj.CoreCompileInputs.cache
+C:\Users\Ceylin\source\repos\ProjePart3\obj\Debug\ProjePart3.exe
+C:\Users\Ceylin\source\repos\ProjePart3\obj\Debug\ProjePart3.pdb

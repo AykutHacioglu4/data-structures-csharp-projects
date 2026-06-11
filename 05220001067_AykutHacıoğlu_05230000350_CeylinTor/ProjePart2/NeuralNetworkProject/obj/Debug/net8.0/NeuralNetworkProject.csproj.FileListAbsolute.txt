@@ -1,0 +1,56 @@
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.exe
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.deps.json
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.runtimeconfig.json
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfo.cs
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\refint\NeuralNetworkProject.dll
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.genruntimeconfig.cache
+C:\Users\Asus\Desktop\C#Projects\NeuralNetworkProject\obj\Debug\net8.0\ref\NeuralNetworkProject.dll
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfoInputs.cache
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfo.cs
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.csproj.CoreCompileInputs.cache
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\refint\NeuralNetworkProject.dll
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.exe
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.deps.json
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.runtimeconfig.json
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.genruntimeconfig.cache
+C:\Users\aykut\Desktop\Üni 2 Ders 1.DÖNEM\Data Structures\NeuralNetworkProject\obj\Debug\net8.0\ref\NeuralNetworkProject.dll
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.exe
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.deps.json
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.runtimeconfig.json
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfoInputs.cache
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfo.cs
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.csproj.CoreCompileInputs.cache
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\refint\NeuralNetworkProject.dll
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.genruntimeconfig.cache
+C:\Users\Ceylin\Downloads\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\ref\NeuralNetworkProject.dll
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.exe
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.deps.json
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.runtimeconfig.json
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\bin\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfoInputs.cache
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.AssemblyInfo.cs
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.csproj.CoreCompileInputs.cache
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.dll
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\refint\NeuralNetworkProject.dll
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.pdb
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\NeuralNetworkProject.genruntimeconfig.cache
+C:\Users\Ceylin\OneDrive\Masaüstü\05220001067_AykutHacıoğlu_05230000350_CeylinTor\ProjePart2\NeuralNetworkProject\obj\Debug\net8.0\ref\NeuralNetworkProject.dll
