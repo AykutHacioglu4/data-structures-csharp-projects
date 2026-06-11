@@ -2,9 +2,13 @@
 
 ## English
 
-This repository includes two C# projects developed as part of a Data Structures course. The projects demonstrate practical implementations of data structures, graph algorithms, matrix-based data processing, file handling, and a basic custom neural-network-style classifier.
+This repository contains two C# projects developed to apply data structures, graph algorithms, matrix-based processing, file handling, and basic classification logic in practical scenarios.
 
-The main purpose of this repository is to show how fundamental computer science concepts can be applied to real problems using C# and object-oriented programming principles.
+The first project focuses on road distance analysis between cities and districts. It uses matrix-based graph representation and Dijkstra's shortest path algorithm to calculate and compare shortest distances.
+
+The second project implements a simple custom neural-network-style classifier for binary pattern recognition. It works with 5x5 matrix inputs, converts them into feature vectors, and classifies them using a manually implemented training and prediction workflow.
+
+These projects were built to understand how core computer science concepts behave when they are applied to structured data, graph problems, and basic machine learning-style classification tasks.
 
 ---
 
@@ -12,23 +16,27 @@ The main purpose of this repository is to show how fundamental computer science 
 
 ### 1. Road Distance and Shortest Path Analysis
 
-This project analyzes road distance data between Turkish cities and İzmir districts. It uses matrix-based data structures and file processing techniques to read distance data from external files, represent locations as graph nodes, and calculate shortest paths between non-neighboring locations.
+This project analyzes road distance data between Turkish cities and İzmir districts. Distance data is read from external files, stored in matrix-based structures, and processed as a graph.
 
-The project applies Dijkstra's shortest path algorithm to compare predefined road distances with calculated shortest-path values. The results are written to output files for analysis.
+The application uses Dijkstra's algorithm to calculate the shortest paths between locations. It compares predefined distance values with calculated shortest-path results and writes the output to result files.
+
+The main purpose of this project is to show how graph representation and shortest path algorithms can be applied to real-world-like road distance data.
 
 #### Main Features
 
 * Reads city and district distance data from external files
-* Stores distance information using arrays and matrices
-* Represents neighborhood relationships with dictionary-based structures
-* Applies Dijkstra's algorithm for shortest path calculation
-* Compares predefined distances with calculated shortest-path results
-* Generates output files for result analysis
+* Stores distance values using arrays and matrices
+* Represents locations as graph nodes
+* Uses neighborhood relationships for graph traversal
+* Applies Dijkstra's shortest path algorithm
+* Compares existing distance values with calculated shortest paths
+* Writes calculated results to output files
 
 #### Concepts Used
 
 * Arrays
 * Matrices
+* Jagged arrays
 * Dictionaries
 * File I/O
 * Graph representation
@@ -38,29 +46,30 @@ The project applies Dijkstra's shortest path algorithm to compare predefined roa
 
 ### 2. Custom Neural Network for Binary Pattern Recognition
 
-This project implements a simple neural-network-style classifier in C# without using external machine learning libraries. The application classifies 5x5 binary matrix patterns into predefined categories.
+This project implements a simple custom classifier in C# without using external machine learning libraries. The application classifies 5x5 binary matrix patterns into predefined categories.
 
-The dataset is generated programmatically by creating different variations of binary patterns. These matrix inputs are converted into feature vectors and processed by a custom classifier. The model is trained through iterative weight updates and evaluated using both training samples and unseen test samples.
+The dataset is generated programmatically by creating variations of binary patterns. Each matrix is converted into a one-dimensional feature vector and processed by a custom neural-network-style structure.
 
-The goal of this project is to demonstrate the core logic behind data preprocessing, feature representation, training, classification, and evaluation.
+The purpose of this project is to understand the basic workflow behind data generation, feature extraction, training, weight updates, prediction, and evaluation.
 
 #### Main Features
 
 * Generates synthetic 5x5 binary pattern data
-* Represents image-like data using two-dimensional arrays
-* Converts matrix inputs into one-dimensional feature vectors
+* Represents image-like inputs using two-dimensional arrays
+* Converts matrix data into one-dimensional feature vectors
 * Implements a basic classifier from scratch
-* Performs iterative training with weight updates
-* Evaluates model performance on sample inputs
+* Uses iterative weight updates during training
+* Tests the model with both training and unseen samples
+* Displays prediction and accuracy results through the console
 
 #### Concepts Used
 
 * Object-oriented programming
 * Matrix processing
-* Feature extraction
+* Feature vector creation
 * Basic classification logic
-* Custom neural network implementation
-* Training and testing workflow
+* Manual training workflow
+* Custom neural-network-style implementation
 
 ---
 
@@ -78,28 +87,38 @@ The goal of this project is to demonstrate the core logic behind data preprocess
 
 ---
 
-## Purpose of the Repository
+## What I Implemented and Learned
 
-This repository was created to demonstrate practical software development skills through academic projects. The implementations focus on understanding and applying core computer science topics instead of relying heavily on external libraries.
+Through these projects, I practiced applying data structures and algorithms to problems that involve real data organization, graph traversal, and classification.
 
-The projects show experience in:
+In the shortest path project, I worked with external data files, matrix-based graph representation, and Dijkstra's algorithm. This helped me understand how location data can be modeled as a graph and how shortest path calculations can be performed using weighted connections.
 
-* Writing structured C# code
-* Working with data files
-* Designing algorithm-based solutions
-* Applying graph algorithms to real-world-like data
-* Implementing basic machine learning logic manually
-* Organizing code using object-oriented principles
+In the binary pattern classification project, I implemented the core parts of a simple classifier manually. I practiced generating input data, converting matrix patterns into feature vectors, updating weights during training, and evaluating predictions.
+
+Main topics I practiced:
+
+* Reading and processing external files
+* Structuring data with arrays, matrices, and dictionaries
+* Representing real-world-like distance data as a graph
+* Applying Dijkstra's algorithm
+* Working with matrix-based input data
+* Creating feature vectors from binary patterns
+* Implementing a basic classifier without external ML libraries
+* Organizing code with object-oriented programming principles
 
 ---
 
-# Veri Yapıları Projeleri - C#
+# C# ile Veri Yapıları Projeleri
 
 ## Türkçe
 
-Bu repository, Veri Yapıları dersi kapsamında geliştirilmiş iki ayrı C# projesini içermektedir. Projelerde veri yapıları, graf algoritmaları, matris tabanlı veri işleme, dosya okuma/yazma işlemleri ve temel seviyede özel olarak yazılmış bir sinir ağı / sınıflandırıcı yapısı uygulanmıştır.
+Bu repository, veri yapıları, graf algoritmaları, matris tabanlı veri işleme, dosya okuma/yazma işlemleri ve temel sınıflandırma mantığını pratik senaryolar üzerinde uygulayan iki ayrı C# projesini içermektedir.
 
-Bu repository’nin temel amacı, bilgisayar biliminin temel konularının C# ve nesne yönelimli programlama prensipleri kullanılarak gerçek problemlere nasıl uygulanabileceğini göstermektir.
+İlk proje, şehirler ve ilçeler arasındaki karayolu mesafelerini analiz eder. Matris tabanlı graf temsili ve Dijkstra en kısa yol algoritması kullanılarak mesafeler hesaplanır ve karşılaştırılır.
+
+İkinci proje, binary pattern recognition için basit bir özel sınıflandırıcı yapısı içerir. 5x5 matris girdileri feature vector yapısına dönüştürülür ve manuel olarak yazılmış eğitim/tahmin akışıyla sınıflandırılır.
+
+Bu projeler, temel bilgisayar bilimi konularının yapılandırılmış veri, graf problemleri ve temel makine öğrenmesi benzeri sınıflandırma işlemlerinde nasıl uygulanabileceğini anlamak için geliştirilmiştir.
 
 ---
 
@@ -107,23 +126,27 @@ Bu repository’nin temel amacı, bilgisayar biliminin temel konularının C# ve
 
 ### 1. Karayolları Uzaklık ve En Kısa Yol Analizi
 
-Bu proje, Türkiye’deki şehirler ve İzmir ilçeleri arasındaki karayolu mesafelerini analiz eder. Projede mesafe verileri harici dosyalardan okunur, matris tabanlı veri yapıları üzerinde saklanır ve şehirler/ilçeler graf düğümleri olarak temsil edilir.
+Bu proje, Türkiye’deki şehirler ve İzmir ilçeleri arasındaki karayolu mesafelerini analiz eder. Mesafe verileri harici dosyalardan okunur, matris tabanlı yapılarda saklanır ve graf olarak işlenir.
 
-Proje kapsamında, komşu olmayan şehir veya ilçe çiftleri arasındaki en kısa yollar Dijkstra algoritması ile hesaplanır. Hesaplanan değerler, dosyalarda bulunan mevcut mesafe değerleriyle karşılaştırılır ve sonuçlar analiz edilebilmesi için çıktı dosyalarına yazdırılır.
+Uygulama, lokasyonlar arasındaki en kısa yolları Dijkstra algoritması ile hesaplar. Dosyalarda bulunan mevcut mesafe değerleri ile hesaplanan en kısa yol sonuçları karşılaştırılır ve sonuçlar çıktı dosyalarına yazdırılır.
+
+Bu projenin temel amacı, graf temsili ve en kısa yol algoritmalarının gerçekçi karayolu mesafe verileri üzerinde nasıl uygulanabileceğini göstermektir.
 
 #### Temel Özellikler
 
 * Şehir ve ilçe mesafe verilerini harici dosyalardan okuma
-* Mesafe bilgilerini dizi ve matris yapılarıyla saklama
-* Komşuluk ilişkilerini dictionary tabanlı yapılarla temsil etme
+* Mesafe değerlerini dizi ve matris yapılarıyla saklama
+* Lokasyonları graf düğümleri olarak temsil etme
+* Komşuluk ilişkileri üzerinden graf dolaşımı yapma
 * Dijkstra algoritması ile en kısa yol hesaplama
-* Tanımlı mesafe ile hesaplanan mesafeyi karşılaştırma
-* Sonuçları çıktı dosyalarına yazdırma
+* Mevcut mesafe değerleri ile hesaplanan en kısa yolları karşılaştırma
+* Hesaplanan sonuçları çıktı dosyalarına yazdırma
 
 #### Kullanılan Kavramlar
 
 * Diziler
 * Matrisler
+* Jagged array yapısı
 * Dictionary veri yapısı
 * Dosya okuma/yazma işlemleri
 * Graf temsili
@@ -131,31 +154,32 @@ Proje kapsamında, komşu olmayan şehir veya ilçe çiftleri arasındaki en kı
 
 ---
 
-### 2. Binary Pattern Recognition için Basit Sinir Ağı
+### 2. Binary Pattern Recognition için Özel Sınıflandırıcı
 
-Bu proje, herhangi bir harici makine öğrenmesi kütüphanesi kullanılmadan C# ile geliştirilmiş temel bir sinir ağı / sınıflandırıcı mantığını içerir. Uygulama, 5x5 boyutundaki binary matrisleri önceden tanımlanmış sınıflara ayırır.
+Bu proje, herhangi bir harici makine öğrenmesi kütüphanesi kullanılmadan C# ile yazılmış basit bir özel sınıflandırıcı yapısını içerir. Uygulama, 5x5 boyutundaki binary matrisleri önceden tanımlanmış sınıflara ayırır.
 
-Veri seti program içinde farklı binary pattern varyasyonları oluşturularak üretilir. Bu matris verileri tek boyutlu feature vector yapısına dönüştürülür ve özel olarak yazılmış sınıflandırıcı tarafından işlenir. Model, iteratif ağırlık güncellemeleri ile eğitilir ve hem eğitim örnekleri hem de daha önce görmediği test örnekleri üzerinde değerlendirilir.
+Veri seti, binary pattern varyasyonları program içinde oluşturularak üretilir. Her matris tek boyutlu feature vector yapısına dönüştürülür ve özel olarak yazılmış sinir ağı benzeri yapı tarafından işlenir.
 
-Bu projenin amacı, veri ön işleme, feature representation, eğitim, sınıflandırma ve değerlendirme adımlarının temel çalışma mantığını göstermektir.
+Bu projenin amacı, veri üretimi, feature extraction, eğitim, ağırlık güncelleme, tahmin ve değerlendirme adımlarının temel çalışma mantığını anlamaktır.
 
 #### Temel Özellikler
 
 * 5x5 binary pattern verileri üretme
-* Görsel benzeri verileri iki boyutlu dizilerle temsil etme
-* Matris girişlerini tek boyutlu feature vector yapısına dönüştürme
-* Sıfırdan yazılmış basit sınıflandırıcı yapısı
-* Ağırlık güncellemeleriyle iteratif eğitim yapma
-* Model performansını örnek girdiler üzerinde değerlendirme
+* Görsel benzeri girdileri iki boyutlu dizilerle temsil etme
+* Matris verilerini tek boyutlu feature vector yapısına dönüştürme
+* Sıfırdan basit bir sınıflandırıcı yapısı oluşturma
+* Eğitim sırasında iteratif ağırlık güncellemeleri yapma
+* Modeli hem eğitim verileri hem de daha önce görmediği test örnekleriyle deneme
+* Tahmin ve doğruluk sonuçlarını konsol üzerinden gösterme
 
 #### Kullanılan Kavramlar
 
 * Nesne yönelimli programlama
 * Matris işleme
-* Feature extraction
+* Feature vector oluşturma
 * Temel sınıflandırma mantığı
-* Özel sinir ağı implementasyonu
-* Eğitim ve test süreci
+* Manuel eğitim akışı
+* Özel sinir ağı benzeri yapı implementasyonu
 
 ---
 
@@ -173,15 +197,21 @@ Bu projenin amacı, veri ön işleme, feature representation, eğitim, sınıfla
 
 ---
 
-## Repository Amacı
+## Bu Projede Ne Uyguladım ve Ne Öğrendim?
 
-Bu repository, akademik projeler üzerinden pratik yazılım geliştirme becerilerini göstermek amacıyla hazırlanmıştır. Projelerde harici kütüphanelere bağımlı kalmak yerine temel bilgisayar bilimi konularının mantığını anlamaya ve manuel olarak uygulamaya odaklanılmıştır.
+Bu projelerde, veri yapıları ve algoritmaları gerçek veri organizasyonu, graf dolaşımı ve sınıflandırma problemleri üzerinde uyguladım.
 
-Projeler aşağıdaki becerileri göstermektedir:
+En kısa yol projesinde harici veri dosyaları, matris tabanlı graf temsili ve Dijkstra algoritması ile çalıştım. Bu sayede lokasyon verilerinin graf olarak nasıl modellenebileceğini ve ağırlıklı bağlantılar üzerinden en kısa yol hesaplamalarının nasıl yapılacağını uyguladım.
 
-* Yapılandırılmış C# kodu yazma
-* Harici veri dosyalarıyla çalışma
-* Algoritma tabanlı çözüm tasarlama
-* Graf algoritmalarını gerçek veri benzeri yapılara uygulama
-* Temel makine öğrenmesi mantığını manuel olarak implemente etme
+Binary pattern sınıflandırma projesinde ise basit bir sınıflandırıcının temel parçalarını manuel olarak oluşturdum. Veri üretimi, matrisleri feature vector yapısına dönüştürme, eğitim sırasında ağırlık güncelleme ve tahmin sonuçlarını değerlendirme konularında pratik yaptım.
+
+Bu projelerde pratik yaptığım ana konular:
+
+* Harici dosyalardan veri okuma ve işleme
+* Veriyi dizi, matris ve dictionary yapılarıyla organize etme
+* Gerçekçi mesafe verilerini graf olarak temsil etme
+* Dijkstra algoritmasını uygulama
+* Matris tabanlı giriş verileriyle çalışma
+* Binary pattern verilerinden feature vector oluşturma
+* Harici ML kütüphanesi kullanmadan temel sınıflandırıcı implementasyonu
 * Nesne yönelimli programlama prensipleriyle kod organize etme
